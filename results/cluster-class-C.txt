@@ -1,0 +1,1434 @@
+Clustering results for class C:
+Sản phẩm 0595 SA4154 (demand 2848.5) thuộc cluster 1
+Sản phẩm K595 SQ1017 (demand 10.0) thuộc cluster 0
+Sản phẩm 0595 SQ1964 (demand 1648.0) thuộc cluster 2
+Sản phẩm 0595 SL4155 (demand 3111.0) thuộc cluster 1
+Sản phẩm 0595 SL4155 (demand 651.0) thuộc cluster 0
+Sản phẩm 0595 SL4156 (demand 981.8) thuộc cluster 2
+Sản phẩm 0595 TL4156 (demand 1526.4) thuộc cluster 2
+Sản phẩm 0595 SL5509 (demand 54.0) thuộc cluster 0
+Sản phẩm 0595 SD4820 (demand 300.0) thuộc cluster 0
+Sản phẩm 0598 SJ5097 (demand 38.4) thuộc cluster 0
+Sản phẩm 0702 SQ1002 (demand 782.1) thuộc cluster 0
+Sản phẩm K702 SQ1002 (demand 45.0) thuộc cluster 0
+Sản phẩm K702 SQ1002 (demand 20.0) thuộc cluster 0
+Sản phẩm K702 SQ1002 (demand 512.0) thuộc cluster 0
+Sản phẩm K702 SQ1004 (demand 11.0) thuộc cluster 0
+Sản phẩm 0702 SQ1017 (demand 1169.5) thuộc cluster 2
+Sản phẩm K702 SQ1017 (demand 20.0) thuộc cluster 0
+Sản phẩm K702 TQ1017 (demand 25.0) thuộc cluster 0
+Sản phẩm 0702 SQ1022 (demand 2400.0) thuộc cluster 1
+Sản phẩm K702 SQ1022 (demand 5.0) thuộc cluster 0
+Sản phẩm K702 SQ1022 (demand 150.0) thuộc cluster 0
+Sản phẩm K702 SQ1930 (demand 29.99) thuộc cluster 0
+Sản phẩm K702 SQ1930 (demand 45.72) thuộc cluster 0
+Sản phẩm K702 SQ1930 (demand 27.43) thuộc cluster 0
+Sản phẩm K702 TQ1930 (demand 91.44) thuộc cluster 0
+Sản phẩm 0702 SQ2896 (demand 2934.0) thuộc cluster 1
+Sản phẩm 0702 SQ3653 (demand 3014.1) thuộc cluster 1
+Sản phẩm 0702 SQ4153 (demand 422.0) thuộc cluster 0
+Sản phẩm 0702 SQ4153 (demand 3838.0) thuộc cluster 1
+Sản phẩm 0702 SQ4153 (demand 938.0) thuộc cluster 2
+Sản phẩm 0702 SQ4153 (demand 2484.0) thuộc cluster 1
+Sản phẩm 0702 SQ4153 (demand 31.0) thuộc cluster 0
+Sản phẩm 0702 TQ4153 (demand 834.0) thuộc cluster 0
+Sản phẩm 0702 TQ4153 (demand 739.0) thuộc cluster 0
+Sản phẩm 0702 TQ4153 (demand 1963.0) thuộc cluster 2
+Sản phẩm 0702 TQ4153 (demand 146.0) thuộc cluster 0
+Sản phẩm 0702 TQ4661 (demand 800.5) thuộc cluster 0
+Sản phẩm 0702 TQ4661 (demand 1659.5) thuộc cluster 2
+Sản phẩm 0702 TQ4661 (demand 501.0) thuộc cluster 0
+Sản phẩm 0702 SQ4681 (demand 769.0) thuộc cluster 0
+Sản phẩm 0702 SQ4681 (demand 722.0) thuộc cluster 0
+Sản phẩm K702 SQ5367 (demand 20.0) thuộc cluster 0
+Sản phẩm 0702 SQ5395 (demand 2060.0) thuộc cluster 2
+Sản phẩm 0702 SQ5395 (demand 2568.0) thuộc cluster 1
+Sản phẩm 0702 SQ5395 (demand 527.0) thuộc cluster 0
+Sản phẩm 0702 SQ5402 (demand 327.8) thuộc cluster 0
+Sản phẩm 0702 SL1004 (demand 977.0) thuộc cluster 2
+Sản phẩm 0702 SL1004 (demand 3454.0) thuộc cluster 1
+Sản phẩm 0702 SL1004 (demand 1171.0) thuộc cluster 2
+Sản phẩm 0702 SL1004 (demand 1803.0) thuộc cluster 2
+Sản phẩm 0702 SL1004 (demand 663.0) thuộc cluster 0
+Sản phẩm 0702 SL1004 (demand 878.0) thuộc cluster 2
+Sản phẩm 0702 SL1127 (demand 199.8) thuộc cluster 0
+Sản phẩm 0702 SL1127 (demand 817.4) thuộc cluster 0
+Sản phẩm 0702 SL1127 (demand 1112.9) thuộc cluster 2
+Sản phẩm 0702 SL1215 (demand 1686.6) thuộc cluster 2
+Sản phẩm 0702 SL1215 (demand 1808.5) thuộc cluster 2
+Sản phẩm 0702 SL1215 (demand 697.1) thuộc cluster 0
+Sản phẩm 0702 RL3448 (demand 760.3) thuộc cluster 0
+Sản phẩm 0702 SL3448 (demand 70.0) thuộc cluster 0
+Sản phẩm 0702 SL3448 (demand 1077.6) thuộc cluster 2
+Sản phẩm 0702 SL4155 (demand 842.0) thuộc cluster 0
+Sản phẩm 0702 SL4155 (demand 3091.58) thuộc cluster 1
+Sản phẩm 0702 SL4155 (demand 344.74) thuộc cluster 0
+Sản phẩm 0702 SL4155 (demand 250.0) thuộc cluster 0
+Sản phẩm 0702 SL4156 (demand 1335.0) thuộc cluster 2
+Sản phẩm 0702 SL4156 (demand 558.0) thuộc cluster 0
+Sản phẩm 0702 SL4156 (demand 3006.0) thuộc cluster 1
+Sản phẩm 0702 SL4156 (demand 194.0) thuộc cluster 0
+Sản phẩm 0702 SL4156 (demand 653.0) thuộc cluster 0
+Sản phẩm 0702 SL4156 (demand 50.0) thuộc cluster 0
+Sản phẩm 0702 SL4156 (demand 156.0) thuộc cluster 0
+Sản phẩm 0702 SL4156 (demand 192.0) thuộc cluster 0
+Sản phẩm 0702 SL4623 (demand 2484.0) thuộc cluster 1
+Sản phẩm 0702 SD2032 (demand 500.0) thuộc cluster 0
+Sản phẩm 0702 SD2032 (demand 1800.0) thuộc cluster 2
+Sản phẩm 0702 SD2032 (demand 2600.0) thuộc cluster 1
+Sản phẩm 0702 SD2032 (demand 1300.0) thuộc cluster 2
+Sản phẩm 0702 SD2032 (demand 1300.0) thuộc cluster 2
+Sản phẩm 0702 SD2165 (demand 1840.0) thuộc cluster 2
+Sản phẩm K702 SD2165 (demand 100.0) thuộc cluster 0
+Sản phẩm 0702 SD2169 (demand 1000.0) thuộc cluster 2
+Sản phẩm 0702 SD2180 (demand 700.0) thuộc cluster 0
+Sản phẩm 0702 SD2250 (demand 1000.0) thuộc cluster 2
+Sản phẩm 0702 SD2250 (demand 3800.0) thuộc cluster 1
+Sản phẩm 0702 TD2250 (demand 1000.0) thuộc cluster 2
+Sản phẩm 0702 SD2892 (demand 3000.0) thuộc cluster 1
+Sản phẩm 0702 SD4589 (demand 3000.0) thuộc cluster 1
+Sản phẩm 0702 SD4589 (demand 3880.0) thuộc cluster 1
+Sản phẩm 0702 SD4589 (demand 1900.0) thuộc cluster 2
+Sản phẩm 0702 SD4589 (demand 1100.0) thuộc cluster 2
+Sản phẩm 0702 SD4908 (demand 200.0) thuộc cluster 0
+Sản phẩm 0702 SD5102 (demand 3000.0) thuộc cluster 1
+Sản phẩm 0702 SD5102 (demand 1400.0) thuộc cluster 2
+Sản phẩm 0702 TD5102 (demand 1600.0) thuộc cluster 2
+Sản phẩm 0702 SD5103 (demand 1850.0) thuộc cluster 2
+Sản phẩm 0702 SD5103 (demand 1000.0) thuộc cluster 2
+Sản phẩm 0702 SD5103 (demand 550.0) thuộc cluster 0
+Sản phẩm 0702 SD5103 (demand 1284.0) thuộc cluster 2
+Sản phẩm 0702 SD5103 (demand 700.0) thuộc cluster 0
+Sản phẩm 0702 SD5103 (demand 1000.0) thuộc cluster 2
+Sản phẩm 0702 SD5103 (demand 750.0) thuộc cluster 0
+Sản phẩm 0702 SD5130 (demand 3500.0) thuộc cluster 1
+Sản phẩm 0702 SD5130 (demand 2200.0) thuộc cluster 2
+Sản phẩm 0702 SD5147 (demand 3003.0) thuộc cluster 1
+Sản phẩm 0702 SD5155 (demand 515.0) thuộc cluster 0
+Sản phẩm 0702 SD5155 (demand 100.0) thuộc cluster 0
+Sản phẩm 0702 SD5155 (demand 2800.0) thuộc cluster 1
+Sản phẩm 0702 SD5183 (demand 3900.0) thuộc cluster 1
+Sản phẩm 0702 TD5183 (demand 3400.0) thuộc cluster 1
+Sản phẩm 0702 SD5196 (demand 3800.0) thuộc cluster 1
+Sản phẩm 0702 SD5196 (demand 700.0) thuộc cluster 0
+Sản phẩm 0702 SD5237 (demand 1900.0) thuộc cluster 2
+Sản phẩm 0702 SD5237 (demand 1000.0) thuộc cluster 2
+Sản phẩm 0702 SD5237 (demand 3100.0) thuộc cluster 1
+Sản phẩm 0702 SD5237 (demand 700.0) thuộc cluster 0
+Sản phẩm 0702 SD5237 (demand 1100.0) thuộc cluster 2
+Sản phẩm 0702 SD5237 (demand 1600.0) thuộc cluster 2
+Sản phẩm 0702 SD5239 (demand 1000.0) thuộc cluster 2
+Sản phẩm 0702 SD5251 (demand 1274.0) thuộc cluster 2
+Sản phẩm 0702 SD5401 (demand 90.0) thuộc cluster 0
+Sản phẩm 0702 SD5445 (demand 500.0) thuộc cluster 0
+Sản phẩm 0702 SD5445 (demand 1000.0) thuộc cluster 2
+Sản phẩm K723 SL1004 (demand 2080.0) thuộc cluster 2
+Sản phẩm K723 SD4821 (demand 520.0) thuộc cluster 0
+Sản phẩm K725 SG2403 (demand 27.43) thuộc cluster 0
+Sản phẩm K809 SD4820 (demand 358.0) thuộc cluster 0
+Sản phẩm 0814 SQ3653 (demand 2572.0) thuộc cluster 1
+Sản phẩm 0814 SQ5395 (demand 3125.8) thuộc cluster 1
+Sản phẩm 0814 SL1215 (demand 40.0) thuộc cluster 0
+Sản phẩm 0814 SL3448 (demand 1152.3) thuộc cluster 2
+Sản phẩm 0835 SL1004 (demand 1457.0) thuộc cluster 2
+Sản phẩm K3463 SA1004 (demand 18.0) thuộc cluster 0
+Sản phẩm 3463 SD4820 (demand 1620.0) thuộc cluster 2
+Sản phẩm K3633 SA1002 (demand 9.14) thuộc cluster 0
+Sản phẩm 3668 SA4154 (demand 160.71) thuộc cluster 0
+Sản phẩm 4002 SV2857 (demand 3702.13) thuộc cluster 1
+Sản phẩm 4082 SV1002 (demand 753.47) thuộc cluster 0
+Sản phẩm 4082 TV1002 (demand 3036.63) thuộc cluster 1
+Sản phẩm 4090 SV1002 (demand 3282.5) thuộc cluster 1
+Sản phẩm 4090 SV1002 (demand 2336.1) thuộc cluster 1
+Sản phẩm 4090 SV3451 (demand 3981.6) thuộc cluster 1
+Sản phẩm 4126 TD4821 (demand 239.57) thuộc cluster 0
+Sản phẩm G723 SL1004 (demand 70.0) thuộc cluster 0
+Sản phẩm G723 SL1004 (demand 286.0) thuộc cluster 0
+Sản phẩm G737 SV1002 (demand 313.64) thuộc cluster 0
+Sản phẩm G737 SV1332 (demand 142.65) thuộc cluster 0
+Sản phẩm G737 SD4820 (demand 27.43) thuộc cluster 0
+Sản phẩm G737 SD4820 (demand 2072.03) thuộc cluster 2
+Sản phẩm 0595 SA4154 (demand 2848.5) thuộc cluster 1
+Sản phẩm K595 SQ1017 (demand 10.0) thuộc cluster 0
+Sản phẩm 0595 SQ1964 (demand 1648.0) thuộc cluster 2
+Sản phẩm 0595 SL4155 (demand 3111.0) thuộc cluster 1
+Sản phẩm 0595 SL4155 (demand 651.0) thuộc cluster 0
+Sản phẩm 0595 SL4156 (demand 981.8) thuộc cluster 2
+Sản phẩm 0595 TL4156 (demand 1526.4) thuộc cluster 2
+Sản phẩm 0595 SL5509 (demand 54.0) thuộc cluster 0
+Sản phẩm 0595 SD4820 (demand 300.0) thuộc cluster 0
+Sản phẩm 0598 SJ5097 (demand 38.4) thuộc cluster 0
+Sản phẩm 0702 SQ1002 (demand 782.1) thuộc cluster 0
+Sản phẩm K702 SQ1002 (demand 45.0) thuộc cluster 0
+Sản phẩm K702 SQ1002 (demand 20.0) thuộc cluster 0
+Sản phẩm K702 SQ1002 (demand 512.0) thuộc cluster 0
+Sản phẩm K702 SQ1004 (demand 11.0) thuộc cluster 0
+Sản phẩm 0702 SQ1017 (demand 1169.5) thuộc cluster 2
+Sản phẩm K702 SQ1017 (demand 20.0) thuộc cluster 0
+Sản phẩm K702 TQ1017 (demand 25.0) thuộc cluster 0
+Sản phẩm 0702 SQ1022 (demand 2400.0) thuộc cluster 1
+Sản phẩm K702 SQ1022 (demand 5.0) thuộc cluster 0
+Sản phẩm K702 SQ1022 (demand 150.0) thuộc cluster 0
+Sản phẩm K702 SQ1930 (demand 29.99) thuộc cluster 0
+Sản phẩm K702 SQ1930 (demand 45.72) thuộc cluster 0
+Sản phẩm K702 SQ1930 (demand 27.43) thuộc cluster 0
+Sản phẩm K702 TQ1930 (demand 91.44) thuộc cluster 0
+Sản phẩm 0702 SQ2896 (demand 2934.0) thuộc cluster 1
+Sản phẩm 0702 SQ3653 (demand 3014.1) thuộc cluster 1
+Sản phẩm 0702 SQ4153 (demand 422.0) thuộc cluster 0
+Sản phẩm 0702 SQ4153 (demand 3838.0) thuộc cluster 1
+Sản phẩm 0702 SQ4153 (demand 938.0) thuộc cluster 2
+Sản phẩm 0702 SQ4153 (demand 2484.0) thuộc cluster 1
+Sản phẩm 0702 SQ4153 (demand 31.0) thuộc cluster 0
+Sản phẩm 0702 TQ4153 (demand 834.0) thuộc cluster 0
+Sản phẩm 0702 TQ4153 (demand 739.0) thuộc cluster 0
+Sản phẩm 0702 TQ4153 (demand 1963.0) thuộc cluster 2
+Sản phẩm 0702 TQ4153 (demand 146.0) thuộc cluster 0
+Sản phẩm 0702 TQ4661 (demand 800.5) thuộc cluster 0
+Sản phẩm 0702 TQ4661 (demand 1659.5) thuộc cluster 2
+Sản phẩm 0702 TQ4661 (demand 501.0) thuộc cluster 0
+Sản phẩm 0702 SQ4681 (demand 769.0) thuộc cluster 0
+Sản phẩm 0702 SQ4681 (demand 722.0) thuộc cluster 0
+Sản phẩm K702 SQ5367 (demand 20.0) thuộc cluster 0
+Sản phẩm 0702 SQ5395 (demand 2060.0) thuộc cluster 2
+Sản phẩm 0702 SQ5395 (demand 2568.0) thuộc cluster 1
+Sản phẩm 0702 SQ5395 (demand 527.0) thuộc cluster 0
+Sản phẩm 0702 SQ5402 (demand 327.8) thuộc cluster 0
+Sản phẩm 0702 SL1004 (demand 977.0) thuộc cluster 2
+Sản phẩm 0702 SL1004 (demand 3454.0) thuộc cluster 1
+Sản phẩm 0702 SL1004 (demand 1171.0) thuộc cluster 2
+Sản phẩm 0702 SL1004 (demand 1803.0) thuộc cluster 2
+Sản phẩm 0702 SL1004 (demand 663.0) thuộc cluster 0
+Sản phẩm 0702 SL1004 (demand 878.0) thuộc cluster 2
+Sản phẩm 0702 SL1127 (demand 199.8) thuộc cluster 0
+Sản phẩm 0702 SL1127 (demand 817.4) thuộc cluster 0
+Sản phẩm 0702 SL1127 (demand 1112.9) thuộc cluster 2
+Sản phẩm 0702 SL1215 (demand 1686.6) thuộc cluster 2
+Sản phẩm 0702 SL1215 (demand 1808.5) thuộc cluster 2
+Sản phẩm 0702 SL1215 (demand 697.1) thuộc cluster 0
+Sản phẩm 0702 RL3448 (demand 760.3) thuộc cluster 0
+Sản phẩm 0702 SL3448 (demand 70.0) thuộc cluster 0
+Sản phẩm 0702 SL3448 (demand 1077.6) thuộc cluster 2
+Sản phẩm 0702 SL4155 (demand 842.0) thuộc cluster 0
+Sản phẩm 0702 SL4155 (demand 3091.58) thuộc cluster 1
+Sản phẩm 0702 SL4155 (demand 344.74) thuộc cluster 0
+Sản phẩm 0702 SL4155 (demand 250.0) thuộc cluster 0
+Sản phẩm 0702 SL4156 (demand 1335.0) thuộc cluster 2
+Sản phẩm 0702 SL4156 (demand 558.0) thuộc cluster 0
+Sản phẩm 0702 SL4156 (demand 3006.0) thuộc cluster 1
+Sản phẩm 0702 SL4156 (demand 194.0) thuộc cluster 0
+Sản phẩm 0702 SL4156 (demand 653.0) thuộc cluster 0
+Sản phẩm 0702 SL4156 (demand 50.0) thuộc cluster 0
+Sản phẩm 0702 SL4156 (demand 156.0) thuộc cluster 0
+Sản phẩm 0702 SL4156 (demand 192.0) thuộc cluster 0
+Sản phẩm 0702 SL4623 (demand 2484.0) thuộc cluster 1
+Sản phẩm 0702 SD2032 (demand 500.0) thuộc cluster 0
+Sản phẩm 0702 SD2032 (demand 1800.0) thuộc cluster 2
+Sản phẩm 0702 SD2032 (demand 2600.0) thuộc cluster 1
+Sản phẩm 0702 SD2032 (demand 1300.0) thuộc cluster 2
+Sản phẩm 0702 SD2032 (demand 1300.0) thuộc cluster 2
+Sản phẩm 0702 SD2165 (demand 1840.0) thuộc cluster 2
+Sản phẩm K702 SD2165 (demand 100.0) thuộc cluster 0
+Sản phẩm 0702 SD2169 (demand 1000.0) thuộc cluster 2
+Sản phẩm 0702 SD2180 (demand 700.0) thuộc cluster 0
+Sản phẩm 0702 SD2250 (demand 1000.0) thuộc cluster 2
+Sản phẩm 0702 SD2250 (demand 3800.0) thuộc cluster 1
+Sản phẩm 0702 TD2250 (demand 1000.0) thuộc cluster 2
+Sản phẩm 0702 SD2892 (demand 3000.0) thuộc cluster 1
+Sản phẩm 0702 SD4589 (demand 3000.0) thuộc cluster 1
+Sản phẩm 0702 SD4589 (demand 3880.0) thuộc cluster 1
+Sản phẩm 0702 SD4589 (demand 1900.0) thuộc cluster 2
+Sản phẩm 0702 SD4589 (demand 1100.0) thuộc cluster 2
+Sản phẩm 0702 SD4908 (demand 200.0) thuộc cluster 0
+Sản phẩm 0702 SD5102 (demand 3000.0) thuộc cluster 1
+Sản phẩm 0702 SD5102 (demand 1400.0) thuộc cluster 2
+Sản phẩm 0702 TD5102 (demand 1600.0) thuộc cluster 2
+Sản phẩm 0702 SD5103 (demand 1850.0) thuộc cluster 2
+Sản phẩm 0702 SD5103 (demand 1000.0) thuộc cluster 2
+Sản phẩm 0702 SD5103 (demand 550.0) thuộc cluster 0
+Sản phẩm 0702 SD5103 (demand 1284.0) thuộc cluster 2
+Sản phẩm 0702 SD5103 (demand 700.0) thuộc cluster 0
+Sản phẩm 0702 SD5103 (demand 1000.0) thuộc cluster 2
+Sản phẩm 0702 SD5103 (demand 750.0) thuộc cluster 0
+Sản phẩm 0702 SD5130 (demand 3500.0) thuộc cluster 1
+Sản phẩm 0702 SD5130 (demand 2200.0) thuộc cluster 2
+Sản phẩm 0702 SD5147 (demand 3003.0) thuộc cluster 1
+Sản phẩm 0702 SD5155 (demand 515.0) thuộc cluster 0
+Sản phẩm 0702 SD5155 (demand 100.0) thuộc cluster 0
+Sản phẩm 0702 SD5155 (demand 2800.0) thuộc cluster 1
+Sản phẩm 0702 SD5183 (demand 3900.0) thuộc cluster 1
+Sản phẩm 0702 TD5183 (demand 3400.0) thuộc cluster 1
+Sản phẩm 0702 SD5196 (demand 3800.0) thuộc cluster 1
+Sản phẩm 0702 SD5196 (demand 700.0) thuộc cluster 0
+Sản phẩm 0702 SD5237 (demand 1900.0) thuộc cluster 2
+Sản phẩm 0702 SD5237 (demand 1000.0) thuộc cluster 2
+Sản phẩm 0702 SD5237 (demand 3100.0) thuộc cluster 1
+Sản phẩm 0702 SD5237 (demand 700.0) thuộc cluster 0
+Sản phẩm 0702 SD5237 (demand 1100.0) thuộc cluster 2
+Sản phẩm 0702 SD5237 (demand 1600.0) thuộc cluster 2
+Sản phẩm 0702 SD5239 (demand 1000.0) thuộc cluster 2
+Sản phẩm 0702 SD5251 (demand 1274.0) thuộc cluster 2
+Sản phẩm 0702 SD5401 (demand 90.0) thuộc cluster 0
+Sản phẩm 0702 SD5445 (demand 500.0) thuộc cluster 0
+Sản phẩm 0702 SD5445 (demand 1000.0) thuộc cluster 2
+Sản phẩm K723 SL1004 (demand 2080.0) thuộc cluster 2
+Sản phẩm K723 SD4821 (demand 520.0) thuộc cluster 0
+Sản phẩm K725 SG2403 (demand 27.43) thuộc cluster 0
+Sản phẩm K809 SD4820 (demand 358.0) thuộc cluster 0
+Sản phẩm 0814 SQ3653 (demand 2572.0) thuộc cluster 1
+Sản phẩm 0814 SQ5395 (demand 3125.8) thuộc cluster 1
+Sản phẩm 0814 SL1215 (demand 40.0) thuộc cluster 0
+Sản phẩm 0814 SL3448 (demand 1152.3) thuộc cluster 2
+Sản phẩm 0835 SL1004 (demand 1457.0) thuộc cluster 2
+Sản phẩm K3463 SA1004 (demand 18.0) thuộc cluster 0
+Sản phẩm 3463 SD4820 (demand 1620.0) thuộc cluster 2
+Sản phẩm K3633 SA1002 (demand 9.14) thuộc cluster 0
+Sản phẩm 3668 SA4154 (demand 160.71) thuộc cluster 0
+Sản phẩm 4002 SV2857 (demand 3702.13) thuộc cluster 1
+Sản phẩm 4082 SV1002 (demand 753.47) thuộc cluster 0
+Sản phẩm 4082 TV1002 (demand 3036.63) thuộc cluster 1
+Sản phẩm 4090 SV1002 (demand 3282.5) thuộc cluster 1
+Sản phẩm 4090 SV1002 (demand 2336.1) thuộc cluster 1
+Sản phẩm 4090 SV3451 (demand 3981.6) thuộc cluster 1
+Sản phẩm 4126 TD4821 (demand 239.57) thuộc cluster 0
+Sản phẩm G723 SL1004 (demand 70.0) thuộc cluster 0
+Sản phẩm G723 SL1004 (demand 286.0) thuộc cluster 0
+Sản phẩm G737 SV1002 (demand 313.64) thuộc cluster 0
+Sản phẩm G737 SV1332 (demand 142.65) thuộc cluster 0
+Sản phẩm G737 SD4820 (demand 27.43) thuộc cluster 0
+Sản phẩm G737 SD4820 (demand 2072.03) thuộc cluster 2
+Sản phẩm 0000 SD4876 (demand 3000.0) thuộc cluster 1
+Sản phẩm 0000 SD4877 (demand 1800.0) thuộc cluster 2
+Sản phẩm 0000 SD4877 (demand 32.0) thuộc cluster 0
+Sản phẩm 0000 SD4900 (demand 500.0) thuộc cluster 0
+Sản phẩm 0000 SD4900 (demand 3796.0) thuộc cluster 1
+Sản phẩm 0000 SD4900 (demand 200.0) thuộc cluster 0
+Sản phẩm 0000 SD4900 (demand 2800.0) thuộc cluster 1
+Sản phẩm 0000 RD4928 (demand 1296.0) thuộc cluster 2
+Sản phẩm 0000 RD4928 (demand 300.0) thuộc cluster 0
+Sản phẩm 0000 SD5024 (demand 2743.2) thuộc cluster 1
+Sản phẩm 0000 SD5024 (demand 2743.2) thuộc cluster 1
+Sản phẩm 0000 SD5024 (demand 230.0) thuộc cluster 0
+Sản phẩm 0000 SD5204 (demand 822.96) thuộc cluster 0
+Sản phẩm 0000 SD5398 (demand 100.0) thuộc cluster 0
+Sản phẩm 0000 SD5398 (demand 200.0) thuộc cluster 0
+Sản phẩm 0000 SD5399 (demand 100.0) thuộc cluster 0
+Sản phẩm 0000 SD5400 (demand 1500.0) thuộc cluster 2
+Sản phẩm 0000 SD5400 (demand 600.0) thuộc cluster 0
+Sản phẩm 1112 RA3218 (demand 1489.6) thuộc cluster 2
+Sản phẩm 1112 SA3218 (demand 1527.5) thuộc cluster 2
+Sản phẩm 1112 SQ4008 (demand 2438.0) thuộc cluster 1
+Sản phẩm 1117 RQ3939 (demand 594.0) thuộc cluster 0
+Sản phẩm 1134 RA4408 (demand 1768.2) thuộc cluster 2
+Sản phẩm 1134 RQ1004 (demand 1786.6) thuộc cluster 2
+Sản phẩm 1137 QA1002 (demand 3097.0) thuộc cluster 1
+Sản phẩm 1137 QA1002 (demand 924.0) thuộc cluster 2
+Sản phẩm 1137 QA1002 (demand 433.0) thuộc cluster 0
+Sản phẩm 1137 SA1002 (demand 1000.3) thuộc cluster 2
+Sản phẩm 1137 QA1004 (demand 315.0) thuộc cluster 0
+Sản phẩm 1137 QA1004 (demand 290.2) thuộc cluster 0
+Sản phẩm 1137 SA1243 (demand 1170.8) thuộc cluster 2
+Sản phẩm 1137 SA4009 (demand 1209.5) thuộc cluster 2
+Sản phẩm 1137 SA5088 (demand 1927.1) thuộc cluster 2
+Sản phẩm 1137 SA5414 (demand 1878.4) thuộc cluster 2
+Sản phẩm 1137 SA5500 (demand 1008.0) thuộc cluster 2
+Sản phẩm 1137 SA5500 (demand 3138.4) thuộc cluster 1
+Sản phẩm 1137 SA5501 (demand 2035.0) thuộc cluster 2
+Sản phẩm 1137 SA5502 (demand 1007.1) thuộc cluster 2
+Sản phẩm 1137 SA5515 (demand 3101.1) thuộc cluster 1
+Sản phẩm 1137 QQ1004 (demand 711.0) thuộc cluster 0
+Sản phẩm 1137 SQ4898 (demand 2488.0) thuộc cluster 1
+Sản phẩm 1137 SQ5311 (demand 1240.5) thuộc cluster 2
+Sản phẩm 1137 QL1002 (demand 817.6) thuộc cluster 0
+Sản phẩm 1137 QL1640 (demand 104.3) thuộc cluster 0
+Sản phẩm 1137 QJ1002 (demand 508.5) thuộc cluster 0
+Sản phẩm 1137 QJ1640 (demand 1037.0) thuộc cluster 2
+Sản phẩm 1138 SA3218 (demand 2200.0) thuộc cluster 2
+Sản phẩm 1177 SA1002 (demand 840.0) thuộc cluster 0
+Sản phẩm 1178 RA3887 (demand 1000.0) thuộc cluster 2
+Sản phẩm 1178 SA3887 (demand 967.13) thuộc cluster 2
+Sản phẩm 1178 SA4222 (demand 154.0) thuộc cluster 0
+Sản phẩm 1178 SQ1012 (demand 1600.0) thuộc cluster 2
+Sản phẩm 1178 QQ1017 (demand 910.0) thuộc cluster 2
+Sản phẩm 1178 QQ1027 (demand 200.0) thuộc cluster 0
+Sản phẩm 1181 RA1029 (demand 224.4) thuộc cluster 0
+Sản phẩm 1181 RA1029 (demand 1210.3) thuộc cluster 2
+Sản phẩm 1181 QA1073 (demand 280.7) thuộc cluster 0
+Sản phẩm 1181 QA1215 (demand 235.5) thuộc cluster 0
+Sản phẩm 1181 QA1215 (demand 295.5) thuộc cluster 0
+Sản phẩm 1181 RA1504 (demand 601.9) thuộc cluster 0
+Sản phẩm 1181 QA5065 (demand 135.0) thuộc cluster 0
+Sản phẩm 1181 RA5149 (demand 159.5) thuộc cluster 0
+Sản phẩm 1181 RQ1002 (demand 516.0) thuộc cluster 0
+Sản phẩm 1181 RQ1002 (demand 208.0) thuộc cluster 0
+Sản phẩm 1181 RQ1004 (demand 941.9) thuộc cluster 2
+Sản phẩm 1181 QQ1027 (demand 456.5) thuộc cluster 0
+Sản phẩm 1181 RQ1027 (demand 417.6) thuộc cluster 0
+Sản phẩm 1181 RQ1059 (demand 714.0) thuộc cluster 0
+Sản phẩm 1181 RQ1059 (demand 112.0) thuộc cluster 0
+Sản phẩm 1181 RQ1637 (demand 181.0) thuộc cluster 0
+Sản phẩm 1181 RQ1829 (demand 181.6) thuộc cluster 0
+Sản phẩm 1181 RQ1829 (demand 433.0) thuộc cluster 0
+Sản phẩm 1181 RQ2696 (demand 2871.9) thuộc cluster 1
+Sản phẩm 1181 SQ3317 (demand 1698.4) thuộc cluster 2
+Sản phẩm 1181 RJ1029 (demand 607.1) thuộc cluster 0
+Sản phẩm 1181 QJ2627 (demand 102.8) thuộc cluster 0
+Sản phẩm 1181 QL1002 (demand 102.5) thuộc cluster 0
+Sản phẩm 1181 QL1004 (demand 489.0) thuộc cluster 0
+Sản phẩm 1181 QL1004 (demand 593.3) thuộc cluster 0
+Sản phẩm 1181 RL1004 (demand 602.5) thuộc cluster 0
+Sản phẩm 1181 RL1029 (demand 376.5) thuộc cluster 0
+Sản phẩm 1181 QT1075 (demand 266.5) thuộc cluster 0
+Sản phẩm 1181 QT1829 (demand 200.0) thuộc cluster 0
+Sản phẩm 1195 SQ5449 (demand 517.9) thuộc cluster 0
+Sản phẩm 1195 SL1215 (demand 3476.0) thuộc cluster 1
+Sản phẩm 1195 SL1215 (demand 1027.0) thuộc cluster 2
+Sản phẩm 1195 SL1215 (demand 100.0) thuộc cluster 0
+Sản phẩm 1195 SL1215 (demand 361.0) thuộc cluster 0
+Sản phẩm 1200 SA1215 (demand 3482.0) thuộc cluster 1
+Sản phẩm 1200 SA5146 (demand 1930.6) thuộc cluster 2
+Sản phẩm 1200 SA5342 (demand 2946.0) thuộc cluster 1
+Sản phẩm 1200 SA5383 (demand 3254.8) thuộc cluster 1
+Sản phẩm 1200 SQ1002 (demand 1506.95) thuộc cluster 2
+Sản phẩm 1223 SA2821 (demand 3453.0) thuộc cluster 1
+Sản phẩm 1223 SA2821 (demand 1679.5) thuộc cluster 2
+Sản phẩm 1225 SQ1002 (demand 2502.71) thuộc cluster 1
+Sản phẩm 1225 SQ1012 (demand 503.84) thuộc cluster 0
+Sản phẩm 1225 SQ1012 (demand 546.81) thuộc cluster 0
+Sản phẩm 3002 SA3218 (demand 1655.0) thuộc cluster 2
+Sản phẩm 3002 GQ1463 (demand 1151.0) thuộc cluster 2
+Sản phẩm 3002 GQ4232 (demand 957.8) thuộc cluster 2
+Sản phẩm 3158 SA4009 (demand 1118.7) thuộc cluster 2
+Sản phẩm 3158 RA5116 (demand 2418.5) thuộc cluster 1
+Sản phẩm 3158 SA5116 (demand 1134.6) thuộc cluster 2
+Sản phẩm 3158 SA5396 (demand 1427.9) thuộc cluster 2
+Sản phẩm 3158 SA5397 (demand 3603.5) thuộc cluster 1
+Sản phẩm 3158 SA5426 (demand 2071.0) thuộc cluster 2
+Sản phẩm 3277 RA1002 (demand 1661.7) thuộc cluster 2
+Sản phẩm 3277 SA1002 (demand 3242.9) thuộc cluster 1
+Sản phẩm 3277 SA2821 (demand 3140.7) thuộc cluster 1
+Sản phẩm 3728 SA3290 (demand 3717.8) thuộc cluster 1
+Sản phẩm 3728 RA4017 (demand 1039.9) thuộc cluster 2
+Sản phẩm 3728 MA4222 (demand 488.3) thuộc cluster 0
+Sản phẩm 3728 RA4813 (demand 1341.5) thuộc cluster 2
+Sản phẩm 3728 RA4813 (demand 1339.0) thuộc cluster 2
+Sản phẩm 3728 SQ1339 (demand 2701.3) thuộc cluster 1
+Sản phẩm 3728 PQ3348 (demand 1026.4) thuộc cluster 2
+Sản phẩm 3728 RQ3677 (demand 1389.6) thuộc cluster 2
+Sản phẩm 3728 SQ3677 (demand 3145.1) thuộc cluster 1
+Sản phẩm 3728 SQ3677 (demand 1106.3) thuộc cluster 2
+Sản phẩm 3728 PQ3966 (demand 1117.1) thuộc cluster 2
+Sản phẩm 3728 PQ4230 (demand 836.5) thuộc cluster 0
+Sản phẩm 3728 QQ4836 (demand 504.0) thuộc cluster 0
+Sản phẩm 3728 SQ5122 (demand 880.4) thuộc cluster 2
+Sản phẩm 3756 SQ3029 (demand 2131.5) thuộc cluster 2
+Sản phẩm 3756 SQ3361 (demand 1375.5) thuộc cluster 2
+Sản phẩm 3756 SQ4076 (demand 2571.3) thuộc cluster 1
+Sản phẩm 3756 SQ4186 (demand 3570.0) thuộc cluster 1
+Sản phẩm 3756 SQ5518 (demand 1050.0) thuộc cluster 2
+Sản phẩm 3782 SA4986 (demand 1050.0) thuộc cluster 2
+Sản phẩm 3782 SA5345 (demand 919.4) thuộc cluster 2
+Sản phẩm 3782 SA5521 (demand 1295.3) thuộc cluster 2
+Sản phẩm 3786 RA2821 (demand 2323.9) thuộc cluster 1
+Sản phẩm 3796 RA1002 (demand 2857.0) thuộc cluster 1
+Sản phẩm 3796 RA1243 (demand 2467.0) thuộc cluster 1
+Sản phẩm 3796 RA4408 (demand 3834.6) thuộc cluster 1
+Sản phẩm 3833 QA2821 (demand 3740.1) thuộc cluster 1
+Sản phẩm 3833 SA2821 (demand 1449.6) thuộc cluster 2
+Sản phẩm 3833 SA2821 (demand 2638.4) thuộc cluster 1
+Sản phẩm 3833 SA2821 (demand 2952.7) thuộc cluster 1
+Sản phẩm 3833 SA4009 (demand 1903.3) thuộc cluster 2
+Sản phẩm 3833 SA5116 (demand 3329.7) thuộc cluster 1
+Sản phẩm 3833 SA5116 (demand 1116.4) thuộc cluster 2
+Sản phẩm 3833 SA5116 (demand 1137.0) thuộc cluster 2
+Sản phẩm 3833 SA5116 (demand 1143.0) thuộc cluster 2
+Sản phẩm 3836 SQ3331 (demand 3322.0) thuộc cluster 1
+Sản phẩm 3836 SQ5497 (demand 1462.9) thuộc cluster 2
+Sản phẩm 3871 QA1002 (demand 1791.7) thuộc cluster 2
+Sản phẩm 3871 SA1002 (demand 1231.4) thuộc cluster 2
+Sản phẩm 3871 SQ1017 (demand 1400.7) thuộc cluster 2
+Sản phẩm 3871 SQ1380 (demand 1298.8) thuộc cluster 2
+Sản phẩm 3872 SQ3630 (demand 3217.4) thuộc cluster 1
+Sản phẩm 3872 SQ3979 (demand 2914.8) thuộc cluster 1
+Sản phẩm 3872 SQ5062 (demand 1232.3) thuộc cluster 2
+Sản phẩm 3872 SQ5314 (demand 1234.3) thuộc cluster 2
+Sản phẩm 3872 SQ5316 (demand 1312.5) thuộc cluster 2
+Sản phẩm 3920 SA4787 (demand 3318.9) thuộc cluster 1
+Sản phẩm 3920 SA5091 (demand 3532.7) thuộc cluster 1
+Sản phẩm 3920 SA5111 (demand 1174.1) thuộc cluster 2
+Sản phẩm 3920 SA5114 (demand 1025.7) thuộc cluster 2
+Sản phẩm 3920 RA5115 (demand 1230.5) thuộc cluster 2
+Sản phẩm 3920 SA5324 (demand 1096.7) thuộc cluster 2
+Sản phẩm 3920 SA5336 (demand 1463.4) thuộc cluster 2
+Sản phẩm 3920 SA5336 (demand 3117.9) thuộc cluster 1
+Sản phẩm 3920 SA5344 (demand 1139.6) thuộc cluster 2
+Sản phẩm 3920 SA5345 (demand 2266.9) thuộc cluster 1
+Sản phẩm 3920 SA5387 (demand 1148.4) thuộc cluster 2
+Sản phẩm 3920 SA5431 (demand 2288.4) thuộc cluster 1
+Sản phẩm 3920 SA5433 (demand 1338.6) thuộc cluster 2
+Sản phẩm 3920 SA5454 (demand 2283.2) thuộc cluster 1
+Sản phẩm 3920 SA5492 (demand 1042.7) thuộc cluster 2
+Sản phẩm 3920 SA5492 (demand 1226.9) thuộc cluster 2
+Sản phẩm 3920 SA5511 (demand 1814.7) thuộc cluster 2
+Sản phẩm 3932 SA2821 (demand 2589.5) thuộc cluster 1
+Sản phẩm 5326 TA4017 (demand 392.0) thuộc cluster 0
+Sản phẩm 5326 RL5274 (demand 164.0) thuộc cluster 0
+Sản phẩm 5462 ST1043 (demand 232.5) thuộc cluster 0
+Sản phẩm 5462 ST1043 (demand 374.5) thuộc cluster 0
+Sản phẩm 5462 SA5486 (demand 2794.0) thuộc cluster 1
+Results for class A:
+Product: 0702 SQ1002, Demand: 45751.26, Cluster: 1
+Product: 0702 SQ1022, Demand: 80319.0, Cluster: 0
+Product: 0702 SQ1022, Demand: 44686.0, Cluster: 1
+Product: 0702 SQ1022, Demand: 110932.0, Cluster: 0
+Product: 0702 SQ1022, Demand: 82425.0, Cluster: 0
+Product: 0702 SQ1022, Demand: 59623.0, Cluster: 0
+Product: 0702 SQ1022, Demand: 22506.0, Cluster: 1
+Product: 0702 SQ1022, Demand: 84720.0, Cluster: 0
+Product: 0702 SQ1022, Demand: 40998.0, Cluster: 1
+Product: 0702 SQ1022, Demand: 32358.0, Cluster: 1
+Product: 0702 SQ3653, Demand: 15067.5, Cluster: 1
+Product: 0702 SQ4153, Demand: 15882.0, Cluster: 1
+Product: 0702 SQ4661, Demand: 31574.0, Cluster: 1
+Product: 0702 SQ4681, Demand: 72225.0, Cluster: 0
+Product: 0702 SQ4681, Demand: 58021.0, Cluster: 0
+Product: 0702 SQ4681, Demand: 38993.0, Cluster: 1
+Product: 0702 SQ4681, Demand: 57897.0, Cluster: 0
+Product: 0702 SQ5086, Demand: 52357.3, Cluster: 0
+Product: 0702 SQ5086, Demand: 40370.5, Cluster: 1
+Product: 0702 TQ5086, Demand: 18229.0, Cluster: 1
+Product: 0702 SQ5234, Demand: 22467.1, Cluster: 1
+Product: 0702 TQ5234, Demand: 37816.6, Cluster: 1
+Product: 0702 SQ5395, Demand: 46784.4, Cluster: 1
+Product: 0702 SQ5395, Demand: 42909.7, Cluster: 1
+Product: 0702 SQ5519, Demand: 53131.0, Cluster: 0
+Product: 0702 SL1215, Demand: 43001.7, Cluster: 1
+Product: 0702 SL1215, Demand: 31681.6, Cluster: 1
+Product: 0702 SL1215, Demand: 77976.2, Cluster: 0
+Product: 0702 SL1215, Demand: 36096.7, Cluster: 1
+Product: 0702 SL1215, Demand: 42923.1, Cluster: 1
+Product: 0702 SL1215, Demand: 31601.5, Cluster: 1
+Product: 0702 SL1215, Demand: 44059.3, Cluster: 1
+Product: 0702 SL1215, Demand: 66134.4, Cluster: 0
+Product: 0702 SL1215, Demand: 40467.2, Cluster: 1
+Product: 0702 SL1215, Demand: 24203.3, Cluster: 1
+Product: 0702 SL4155, Demand: 15461.0, Cluster: 1
+Product: 0702 SL4155, Demand: 24976.69, Cluster: 1
+Product: 0702 SL4156, Demand: 24744.0, Cluster: 1
+Product: 0702 SL4156, Demand: 18786.0, Cluster: 1
+Product: 0702 SL4156, Demand: 18074.0, Cluster: 1
+Product: 0702 SL4156, Demand: 25748.0, Cluster: 1
+Product: 0702 SL4156, Demand: 19373.0, Cluster: 1
+Product: 0702 SL4156, Demand: 24664.0, Cluster: 1
+Product: 0702 SL4156, Demand: 23099.0, Cluster: 1
+Product: 0702 SL4156, Demand: 22218.0, Cluster: 1
+Product: 0702 SL4156, Demand: 18133.0, Cluster: 1
+Product: 0702 SL4712, Demand: 40677.87, Cluster: 1
+Product: 0702 SL4712, Demand: 18966.35, Cluster: 1
+Product: 0702 SD2165, Demand: 23660.0, Cluster: 1
+Product: 0702 SD2165, Demand: 30160.0, Cluster: 1
+Product: 0702 SD2250, Demand: 22330.0, Cluster: 1
+Product: 0702 SD2250, Demand: 16460.0, Cluster: 1
+Product: 0702 SD4908, Demand: 26000.0, Cluster: 1
+Product: 0702 SD4908, Demand: 44420.0, Cluster: 1
+Product: 0702 SD5168, Demand: 20000.0, Cluster: 1
+Product: 0809 SA1004, Demand: 43910.0, Cluster: 1
+Product: 0809 SL1004, Demand: 16024.0, Cluster: 1
+Product: 4082 SV1002, Demand: 24428.829999999998, Cluster: 1
+Product: 4082 SV1002, Demand: 17808.85, Cluster: 1
+Product: 4126 SV1002, Demand: 47517.98, Cluster: 1
+Product: 4126 SV1243, Demand: 208009.63, Cluster: 2
+Product: 4126 SV1243, Demand: 118043.0, Cluster: 0
+Product: G737 SV1004, Demand: 15449.7, Cluster: 1
+Product: 0702 SQ1002, Demand: 45751.26, Cluster: 1
+Product: 0702 SQ1022, Demand: 80319.0, Cluster: 0
+Product: 0702 SQ1022, Demand: 44686.0, Cluster: 1
+Product: 0702 SQ1022, Demand: 110932.0, Cluster: 0
+Product: 0702 SQ1022, Demand: 82425.0, Cluster: 0
+Product: 0702 SQ1022, Demand: 59623.0, Cluster: 0
+Product: 0702 SQ1022, Demand: 22506.0, Cluster: 1
+Product: 0702 SQ1022, Demand: 84720.0, Cluster: 0
+Product: 0702 SQ1022, Demand: 40998.0, Cluster: 1
+Product: 0702 SQ1022, Demand: 32358.0, Cluster: 1
+Product: 0702 SQ3653, Demand: 15067.5, Cluster: 1
+Product: 0702 SQ4153, Demand: 15882.0, Cluster: 1
+Product: 0702 SQ4661, Demand: 31574.0, Cluster: 1
+Product: 0702 SQ4681, Demand: 72225.0, Cluster: 0
+Product: 0702 SQ4681, Demand: 58021.0, Cluster: 0
+Product: 0702 SQ4681, Demand: 38993.0, Cluster: 1
+Product: 0702 SQ4681, Demand: 57897.0, Cluster: 0
+Product: 0702 SQ5086, Demand: 52357.3, Cluster: 0
+Product: 0702 SQ5086, Demand: 40370.5, Cluster: 1
+Product: 0702 TQ5086, Demand: 18229.0, Cluster: 1
+Product: 0702 SQ5234, Demand: 22467.1, Cluster: 1
+Product: 0702 TQ5234, Demand: 37816.6, Cluster: 1
+Product: 0702 SQ5395, Demand: 46784.4, Cluster: 1
+Product: 0702 SQ5395, Demand: 42909.7, Cluster: 1
+Product: 0702 SQ5519, Demand: 53131.0, Cluster: 0
+Product: 0702 SL1215, Demand: 43001.7, Cluster: 1
+Product: 0702 SL1215, Demand: 31681.6, Cluster: 1
+Product: 0702 SL1215, Demand: 77976.2, Cluster: 0
+Product: 0702 SL1215, Demand: 36096.7, Cluster: 1
+Product: 0702 SL1215, Demand: 42923.1, Cluster: 1
+Product: 0702 SL1215, Demand: 31601.5, Cluster: 1
+Product: 0702 SL1215, Demand: 44059.3, Cluster: 1
+Product: 0702 SL1215, Demand: 66134.4, Cluster: 0
+Product: 0702 SL1215, Demand: 40467.2, Cluster: 1
+Product: 0702 SL1215, Demand: 24203.3, Cluster: 1
+Product: 0702 SL4155, Demand: 15461.0, Cluster: 1
+Product: 0702 SL4155, Demand: 24976.69, Cluster: 1
+Product: 0702 SL4156, Demand: 24744.0, Cluster: 1
+Product: 0702 SL4156, Demand: 18786.0, Cluster: 1
+Product: 0702 SL4156, Demand: 18074.0, Cluster: 1
+Product: 0702 SL4156, Demand: 25748.0, Cluster: 1
+Product: 0702 SL4156, Demand: 19373.0, Cluster: 1
+Product: 0702 SL4156, Demand: 24664.0, Cluster: 1
+Product: 0702 SL4156, Demand: 23099.0, Cluster: 1
+Product: 0702 SL4156, Demand: 22218.0, Cluster: 1
+Product: 0702 SL4156, Demand: 18133.0, Cluster: 1
+Product: 0702 SL4712, Demand: 40677.87, Cluster: 1
+Product: 0702 SL4712, Demand: 18966.35, Cluster: 1
+Product: 0702 SD2165, Demand: 23660.0, Cluster: 1
+Product: 0702 SD2165, Demand: 30160.0, Cluster: 1
+Product: 0702 SD2250, Demand: 22330.0, Cluster: 1
+Product: 0702 SD2250, Demand: 16460.0, Cluster: 1
+Product: 0702 SD4908, Demand: 26000.0, Cluster: 1
+Product: 0702 SD4908, Demand: 44420.0, Cluster: 1
+Product: 0702 SD5168, Demand: 20000.0, Cluster: 1
+Product: 0809 SA1004, Demand: 43910.0, Cluster: 1
+Product: 0809 SL1004, Demand: 16024.0, Cluster: 1
+Product: 4082 SV1002, Demand: 24428.829999999998, Cluster: 1
+Product: 4082 SV1002, Demand: 17808.85, Cluster: 1
+Product: 4126 SV1002, Demand: 47517.98, Cluster: 1
+Product: 4126 SV1243, Demand: 208009.63, Cluster: 2
+Product: 4126 SV1243, Demand: 118043.0, Cluster: 0
+Product: G737 SV1004, Demand: 15449.7, Cluster: 1
+Product: 0000 SD5399, Demand: 19541.0, Cluster: 1
+Product: 1112 SA3218, Demand: 20272.7, Cluster: 1
+Product: 1112 PQ1181, Demand: 15555.7, Cluster: 1
+Product: 1137 QA1002, Demand: 17330.1, Cluster: 1
+Product: 1177 SA1002, Demand: 15116.8, Cluster: 1
+Product: 1177 SA4203, Demand: 14271.9, Cluster: 1
+Product: 1177 SQ1002, Demand: 16096.5, Cluster: 1
+Product: 1177 RQ5046, Demand: 31485.7, Cluster: 1
+Product: 1177 RQ5046, Demand: 33027.0, Cluster: 1
+Product: 1195 RA1215, Demand: 19597.7, Cluster: 1
+Product: 1195 RA1215, Demand: 20057.0, Cluster: 1
+Product: 1195 SA1215, Demand: 30568.0, Cluster: 1
+Product: 1195 SA1215, Demand: 20108.0, Cluster: 1
+Product: 1200 SA1215, Demand: 20712.8, Cluster: 1
+Product: 1223 SA2821, Demand: 18728.5, Cluster: 1
+Product: 1223 SA2821, Demand: 19965.4, Cluster: 1
+Product: 1223 SA2821, Demand: 22510.3, Cluster: 1
+Product: 1223 SA2821, Demand: 16076.0, Cluster: 1
+Product: 3158 RA2821, Demand: 13959.7, Cluster: 1
+Product: 3158 RA2821, Demand: 28962.2, Cluster: 1
+Product: 3158 RA5143, Demand: 18254.3, Cluster: 1
+Product: 3277 RA2821, Demand: 24017.9, Cluster: 1
+Product: 3277 SA2821, Demand: 14844.8, Cluster: 1
+Product: 3728 SA3290, Demand: 24612.2, Cluster: 1
+Product: 3728 SQ3677, Demand: 14735.5, Cluster: 1
+Product: 3756 SQ5330, Demand: 23988.2, Cluster: 1
+Product: 3786 QA2821, Demand: 22170.3, Cluster: 1
+Product: 3786 RA2821, Demand: 52542.9, Cluster: 0
+Product: 3786 RA2821, Demand: 15154.3, Cluster: 1
+Product: 3786 RA2821, Demand: 24756.0, Cluster: 1
+Product: 3786 SA4986, Demand: 42297.8, Cluster: 1
+Product: 3796 RA1243, Demand: 19453.5, Cluster: 1
+Product: 3796 RA1243, Demand: 14608.7, Cluster: 1
+Product: 3796 RA2821, Demand: 19911.1, Cluster: 1
+Product: 3796 RA2821, Demand: 14326.0, Cluster: 1
+Product: 3833 RA2821, Demand: 40437.3, Cluster: 1
+Product: 3833 RA2821, Demand: 38605.2, Cluster: 1
+Product: 3833 SA2821, Demand: 35906.4, Cluster: 1
+Product: 3833 SA2821, Demand: 20182.1, Cluster: 1
+Product: 3833 SA2821, Demand: 20918.9, Cluster: 1
+Product: 3833 SA2821, Demand: 24369.0, Cluster: 1
+Product: 3833 SA2821, Demand: 52763.6, Cluster: 0
+Product: 3833 TA2821, Demand: 24020.8, Cluster: 1
+Product: 3833 RA5321, Demand: 110526.6, Cluster: 0
+Product: 3833 SA5321, Demand: 65793.7, Cluster: 0
+Product: 3833 SA5321, Demand: 29978.4, Cluster: 1
+Product: 3833 SA5321, Demand: 51870.3, Cluster: 0
+Product: 3833 SA5321, Demand: 34529.6, Cluster: 1
+Product: 3833 SA5321, Demand: 33847.0, Cluster: 1
+Product: 3871 SQ1002, Demand: 18154.9, Cluster: 1
+Product: 3871 SQ1002, Demand: 20351.6, Cluster: 1
+Product: 3871 SQ4132, Demand: 17499.2, Cluster: 1
+Product: 3872 SQ1219, Demand: 18835.7, Cluster: 1
+Product: 3872 SQ1219, Demand: 27155.8, Cluster: 1
+Product: 3872 SQ1219, Demand: 13820.2, Cluster: 1
+Product: 3872 SQ3819, Demand: 25240.9, Cluster: 1
+Product: 3872 SQ5330, Demand: 19902.8, Cluster: 1
+Product: 3908 SA2821, Demand: 58056.8, Cluster: 0
+Product: 3908 SA2821, Demand: 21267.6, Cluster: 1
+Product: 3908 SQ1002, Demand: 14477.6, Cluster: 1
+Product: 3914 RA4986, Demand: 41795.5, Cluster: 1
+Product: 3914 SA4986, Demand: 41977.2, Cluster: 1
+Product: 3932 SA2821, Demand: 21310.0, Cluster: 1
+Product: 3932 SA3132, Demand: 20997.1, Cluster: 1
+Results for class B:
+Product: 0595 SQ1012, Demand: 5144.0, Cluster: 2
+Product: 0702 SQ1002, Demand: 8336.6, Cluster: 0
+Product: 0702 SQ1002, Demand: 8986.0, Cluster: 0
+Product: 0702 SQ1017, Demand: 9710.0, Cluster: 0
+Product: 0702 SQ1022, Demand: 10884.0, Cluster: 1
+Product: 0702 SQ2896, Demand: 9123.0, Cluster: 0
+Product: 0702 SQ4153, Demand: 4472.0, Cluster: 2
+Product: 0702 TQ4153, Demand: 5290.0, Cluster: 2
+Product: 0702 SQ4661, Demand: 11388.0, Cluster: 1
+Product: 0702 SQ4661, Demand: 7764.5, Cluster: 0
+Product: 0702 SQ4661, Demand: 12796.0, Cluster: 1
+Product: 0702 SQ4681, Demand: 11329.0, Cluster: 1
+Product: 0702 SQ4681, Demand: 4963.0, Cluster: 2
+Product: 0702 SQ4681, Demand: 7651.0, Cluster: 0
+Product: 0702 SQ5395, Demand: 11796.3, Cluster: 1
+Product: 0702 SQ5395, Demand: 13540.8, Cluster: 1
+Product: 0702 SL1004, Demand: 4537.0, Cluster: 2
+Product: 0702 SL1215, Demand: 6148.8, Cluster: 2
+Product: 0702 SL1215, Demand: 9873.1, Cluster: 0
+Product: 0702 SL1215, Demand: 8871.8, Cluster: 0
+Product: 0702 SL1215, Demand: 8910.8, Cluster: 0
+Product: 0702 SL3448, Demand: 7518.2, Cluster: 0
+Product: 0702 SL4155, Demand: 12497.0, Cluster: 1
+Product: 0702 SL4155, Demand: 12680.8, Cluster: 1
+Product: 0702 SL4155, Demand: 8379.0, Cluster: 0
+Product: 0702 SL4155, Demand: 4276.69, Cluster: 2
+Product: 0702 SL4155, Demand: 6549.82, Cluster: 2
+Product: 0702 SL4155, Demand: 5428.8, Cluster: 2
+Product: 0702 SL4155, Demand: 6134.0, Cluster: 2
+Product: 0702 SL4155, Demand: 4852.0, Cluster: 2
+Product: 0702 TL4155, Demand: 4541.0, Cluster: 2
+Product: 0702 TL4155, Demand: 6022.0, Cluster: 2
+Product: 0702 SL4156, Demand: 6745.0, Cluster: 2
+Product: 0702 SL4156, Demand: 9664.0, Cluster: 0
+Product: 0702 SL4156, Demand: 8699.0, Cluster: 0
+Product: 0702 SL4156, Demand: 13365.0, Cluster: 1
+Product: 0702 SL4156, Demand: 12766.0, Cluster: 1
+Product: 0702 SL4156, Demand: 8255.0, Cluster: 0
+Product: 0702 SL4156, Demand: 9472.0, Cluster: 0
+Product: 0702 SL4156, Demand: 10266.0, Cluster: 1
+Product: 0702 SL4623, Demand: 7586.0, Cluster: 0
+Product: 0702 SL4623, Demand: 6160.0, Cluster: 2
+Product: 0702 SL4712, Demand: 11803.05, Cluster: 1
+Product: 0702 SD2165, Demand: 5870.0, Cluster: 2
+Product: 0702 SD2165, Demand: 6900.0, Cluster: 0
+Product: 0702 SD2165, Demand: 12500.0, Cluster: 1
+Product: 0702 SD2165, Demand: 4000.0, Cluster: 2
+Product: 0702 SD2165, Demand: 6500.0, Cluster: 2
+Product: 0702 SD2250, Demand: 8400.0, Cluster: 0
+Product: 0702 SD2250, Demand: 6690.0, Cluster: 2
+Product: 0702 SD2250, Demand: 11400.0, Cluster: 1
+Product: 0702 SD2250, Demand: 7990.0, Cluster: 0
+Product: 0702 SD2250, Demand: 7100.0, Cluster: 0
+Product: 0702 SD2250, Demand: 7000.0, Cluster: 0
+Product: 0702 SD2250, Demand: 10100.0, Cluster: 0
+Product: 0702 SD2250, Demand: 12700.0, Cluster: 1
+Product: 0702 SD2250, Demand: 8680.0, Cluster: 0
+Product: K702 SD2250, Demand: 6000.0, Cluster: 2
+Product: 0702 SD4819, Demand: 9500.0, Cluster: 0
+Product: 0702 SD4819, Demand: 6000.0, Cluster: 2
+Product: 0702 SD4908, Demand: 7600.0, Cluster: 0
+Product: 0702 SD5102, Demand: 6500.0, Cluster: 2
+Product: 0702 SD5102, Demand: 7000.0, Cluster: 0
+Product: 0702 SD5102, Demand: 5500.0, Cluster: 2
+Product: 0702 SD5130, Demand: 5000.0, Cluster: 2
+Product: 0702 SD5147, Demand: 6400.0, Cluster: 2
+Product: 0702 SD5147, Demand: 8281.0, Cluster: 0
+Product: 0702 SD5147, Demand: 9009.0, Cluster: 0
+Product: 0702 SD5147, Demand: 6006.0, Cluster: 2
+Product: 0702 TD5147, Demand: 6825.0, Cluster: 2
+Product: 0702 SD5168, Demand: 6000.0, Cluster: 2
+Product: 0702 SD5168, Demand: 6000.0, Cluster: 2
+Product: 0702 SD5183, Demand: 9990.0, Cluster: 0
+Product: 0702 SD5183, Demand: 5005.0, Cluster: 2
+Product: 0702 SD5183, Demand: 4100.0, Cluster: 2
+Product: 0702 SD5183, Demand: 12980.0, Cluster: 1
+Product: 0702 SD5197, Demand: 8170.0, Cluster: 0
+Product: 0702 SD5445, Demand: 5000.0, Cluster: 2
+Product: 0702 TD5524, Demand: 6600.0, Cluster: 2
+Product: 0814 SQ5395, Demand: 5283.8, Cluster: 2
+Product: 0814 SQ5395, Demand: 5566.0, Cluster: 2
+Product: 0814 SQ5496, Demand: 4562.8, Cluster: 2
+Product: 4082 SV1002, Demand: 5486.21, Cluster: 2
+Product: 4082 TV1048, Demand: 10795.31, Cluster: 1
+Product: G737 SV1004, Demand: 7279.54, Cluster: 0
+Product: G737 SD4820, Demand: 4358.0, Cluster: 2
+Product: 0595 SQ1012, Demand: 5144.0, Cluster: 2
+Product: 0702 SQ1002, Demand: 8336.6, Cluster: 0
+Product: 0702 SQ1002, Demand: 8986.0, Cluster: 0
+Product: 0702 SQ1017, Demand: 9710.0, Cluster: 0
+Product: 0702 SQ1022, Demand: 10884.0, Cluster: 1
+Product: 0702 SQ2896, Demand: 9123.0, Cluster: 0
+Product: 0702 SQ4153, Demand: 4472.0, Cluster: 2
+Product: 0702 TQ4153, Demand: 5290.0, Cluster: 2
+Product: 0702 SQ4661, Demand: 11388.0, Cluster: 1
+Product: 0702 SQ4661, Demand: 7764.5, Cluster: 0
+Product: 0702 SQ4661, Demand: 12796.0, Cluster: 1
+Product: 0702 SQ4681, Demand: 11329.0, Cluster: 1
+Product: 0702 SQ4681, Demand: 4963.0, Cluster: 2
+Product: 0702 SQ4681, Demand: 7651.0, Cluster: 0
+Product: 0702 SQ5395, Demand: 11796.3, Cluster: 1
+Product: 0702 SQ5395, Demand: 13540.8, Cluster: 1
+Product: 0702 SL1004, Demand: 4537.0, Cluster: 2
+Product: 0702 SL1215, Demand: 6148.8, Cluster: 2
+Product: 0702 SL1215, Demand: 9873.1, Cluster: 0
+Product: 0702 SL1215, Demand: 8871.8, Cluster: 0
+Product: 0702 SL1215, Demand: 8910.8, Cluster: 0
+Product: 0702 SL3448, Demand: 7518.2, Cluster: 0
+Product: 0702 SL4155, Demand: 12497.0, Cluster: 1
+Product: 0702 SL4155, Demand: 12680.8, Cluster: 1
+Product: 0702 SL4155, Demand: 8379.0, Cluster: 0
+Product: 0702 SL4155, Demand: 4276.69, Cluster: 2
+Product: 0702 SL4155, Demand: 6549.82, Cluster: 2
+Product: 0702 SL4155, Demand: 5428.8, Cluster: 2
+Product: 0702 SL4155, Demand: 6134.0, Cluster: 2
+Product: 0702 SL4155, Demand: 4852.0, Cluster: 2
+Product: 0702 TL4155, Demand: 4541.0, Cluster: 2
+Product: 0702 TL4155, Demand: 6022.0, Cluster: 2
+Product: 0702 SL4156, Demand: 6745.0, Cluster: 2
+Product: 0702 SL4156, Demand: 9664.0, Cluster: 0
+Product: 0702 SL4156, Demand: 8699.0, Cluster: 0
+Product: 0702 SL4156, Demand: 13365.0, Cluster: 1
+Product: 0702 SL4156, Demand: 12766.0, Cluster: 1
+Product: 0702 SL4156, Demand: 8255.0, Cluster: 0
+Product: 0702 SL4156, Demand: 9472.0, Cluster: 0
+Product: 0702 SL4156, Demand: 10266.0, Cluster: 1
+Product: 0702 SL4623, Demand: 7586.0, Cluster: 0
+Product: 0702 SL4623, Demand: 6160.0, Cluster: 2
+Product: 0702 SL4712, Demand: 11803.05, Cluster: 1
+Product: 0702 SD2165, Demand: 5870.0, Cluster: 2
+Product: 0702 SD2165, Demand: 6900.0, Cluster: 0
+Product: 0702 SD2165, Demand: 12500.0, Cluster: 1
+Product: 0702 SD2165, Demand: 4000.0, Cluster: 2
+Product: 0702 SD2165, Demand: 6500.0, Cluster: 2
+Product: 0702 SD2250, Demand: 8400.0, Cluster: 0
+Product: 0702 SD2250, Demand: 6690.0, Cluster: 2
+Product: 0702 SD2250, Demand: 11400.0, Cluster: 1
+Product: 0702 SD2250, Demand: 7990.0, Cluster: 0
+Product: 0702 SD2250, Demand: 7100.0, Cluster: 0
+Product: 0702 SD2250, Demand: 7000.0, Cluster: 0
+Product: 0702 SD2250, Demand: 10100.0, Cluster: 0
+Product: 0702 SD2250, Demand: 12700.0, Cluster: 1
+Product: 0702 SD2250, Demand: 8680.0, Cluster: 0
+Product: K702 SD2250, Demand: 6000.0, Cluster: 2
+Product: 0702 SD4819, Demand: 9500.0, Cluster: 0
+Product: 0702 SD4819, Demand: 6000.0, Cluster: 2
+Product: 0702 SD4908, Demand: 7600.0, Cluster: 0
+Product: 0702 SD5102, Demand: 6500.0, Cluster: 2
+Product: 0702 SD5102, Demand: 7000.0, Cluster: 0
+Product: 0702 SD5102, Demand: 5500.0, Cluster: 2
+Product: 0702 SD5130, Demand: 5000.0, Cluster: 2
+Product: 0702 SD5147, Demand: 6400.0, Cluster: 2
+Product: 0702 SD5147, Demand: 8281.0, Cluster: 0
+Product: 0702 SD5147, Demand: 9009.0, Cluster: 0
+Product: 0702 SD5147, Demand: 6006.0, Cluster: 2
+Product: 0702 TD5147, Demand: 6825.0, Cluster: 2
+Product: 0702 SD5168, Demand: 6000.0, Cluster: 2
+Product: 0702 SD5168, Demand: 6000.0, Cluster: 2
+Product: 0702 SD5183, Demand: 9990.0, Cluster: 0
+Product: 0702 SD5183, Demand: 5005.0, Cluster: 2
+Product: 0702 SD5183, Demand: 4100.0, Cluster: 2
+Product: 0702 SD5183, Demand: 12980.0, Cluster: 1
+Product: 0702 SD5197, Demand: 8170.0, Cluster: 0
+Product: 0702 SD5445, Demand: 5000.0, Cluster: 2
+Product: 0702 TD5524, Demand: 6600.0, Cluster: 2
+Product: 0814 SQ5395, Demand: 5283.8, Cluster: 2
+Product: 0814 SQ5395, Demand: 5566.0, Cluster: 2
+Product: 0814 SQ5496, Demand: 4562.8, Cluster: 2
+Product: 4082 SV1002, Demand: 5486.21, Cluster: 2
+Product: 4082 TV1048, Demand: 10795.31, Cluster: 1
+Product: G737 SV1004, Demand: 7279.54, Cluster: 0
+Product: G737 SD4820, Demand: 4358.0, Cluster: 2
+Product: 0000 SD4876, Demand: 5000.0, Cluster: 2
+Product: 0000 SD4877, Demand: 8495.0, Cluster: 0
+Product: 0000 SD4900, Demand: 6500.0, Cluster: 2
+Product: 0000 SD5398, Demand: 8200.0, Cluster: 0
+Product: 0000 SD5400, Demand: 4385.0, Cluster: 2
+Product: 0000 SD5400, Demand: 8518.0, Cluster: 0
+Product: 1112 MA1243, Demand: 3993.5, Cluster: 2
+Product: 1112 PA1243, Demand: 4845.0, Cluster: 2
+Product: 1112 SA3218, Demand: 4601.6, Cluster: 2
+Product: 1112 SA3218, Demand: 6135.5, Cluster: 2
+Product: 1112 SA3218, Demand: 4177.2, Cluster: 2
+Product: 1112 SA3218, Demand: 10092.2, Cluster: 0
+Product: 1134 SA5408, Demand: 4978.7, Cluster: 2
+Product: 1137 SA2821, Demand: 12448.5, Cluster: 1
+Product: 1137 SA2821, Demand: 5857.7, Cluster: 2
+Product: 1137 SA2821, Demand: 8900.3, Cluster: 0
+Product: 1137 SA2821, Demand: 5401.7, Cluster: 2
+Product: 1137 SA2821, Demand: 8782.9, Cluster: 0
+Product: 1137 SA5458, Demand: 7108.5, Cluster: 0
+Product: 1137 SQ1002, Demand: 9740.1, Cluster: 0
+Product: 1137 SQ1098, Demand: 6937.0, Cluster: 0
+Product: 1137 SQ1098, Demand: 4231.5, Cluster: 2
+Product: 1177 RA1002, Demand: 6856.1, Cluster: 2
+Product: 1177 SA1002, Demand: 4106.0, Cluster: 2
+Product: 1177 SA1002, Demand: 10272.5, Cluster: 1
+Product: 1177 SA1002, Demand: 7421.1, Cluster: 0
+Product: 1177 SQ1339, Demand: 8317.7, Cluster: 0
+Product: 1177 SQ1339, Demand: 5571.4, Cluster: 2
+Product: 1177 SQ1367, Demand: 6076.9, Cluster: 2
+Product: 1177 SQ1703, Demand: 8043.0, Cluster: 0
+Product: 1177 RQ4220, Demand: 7303.3, Cluster: 0
+Product: 1177 SQ4220, Demand: 7717.3, Cluster: 0
+Product: 1177 TQ4976, Demand: 13430.7, Cluster: 1
+Product: 1177 TQ5411, Demand: 7304.4, Cluster: 0
+Product: 1177 SQ5512, Demand: 7352.6, Cluster: 0
+Product: 1200 RA1215, Demand: 12240.5, Cluster: 1
+Product: 1200 RA1215, Demand: 8433.0, Cluster: 0
+Product: 1200 SA1215, Demand: 5061.5, Cluster: 2
+Product: 1200 SA1215, Demand: 4760.2, Cluster: 2
+Product: 1200 SA1215, Demand: 5271.5, Cluster: 2
+Product: 1200 SA5508, Demand: 4003.8, Cluster: 2
+Product: 3002 RA3218, Demand: 7201.0, Cluster: 0
+Product: 3158 SA2821, Demand: 5838.2, Cluster: 2
+Product: 3158 SA2821, Demand: 11140.3, Cluster: 1
+Product: 3158 SA2821, Demand: 6580.2, Cluster: 2
+Product: 3158 SQ5514, Demand: 11729.0, Cluster: 1
+Product: 3277 RA1002, Demand: 6572.8, Cluster: 2
+Product: 3277 SA1002, Demand: 7368.5, Cluster: 0
+Product: 3277 RA2821, Demand: 13482.6, Cluster: 1
+Product: 3277 RA5116, Demand: 7860.4, Cluster: 0
+Product: 3851 RA3132, Demand: 12497.0, Cluster: 1
+Product: 3728 PA3202, Demand: 11305.5, Cluster: 1
+Product: 3728 RA3202, Demand: 7451.4, Cluster: 0
+Product: 3728 RA3202, Demand: 5285.7, Cluster: 2
+Product: 3728 RA2821, Demand: 4174.4, Cluster: 2
+Product: 3728 MA4222, Demand: 4405.8, Cluster: 2
+Product: 3728 PA4923, Demand: 12636.0, Cluster: 1
+Product: 3728 SQ4686, Demand: 8538.3, Cluster: 0
+Product: 3756 SQ1128, Demand: 4189.7, Cluster: 2
+Product: 3756 SQ1219, Demand: 8476.7, Cluster: 0
+Product: 3756 SQ4076, Demand: 7866.3, Cluster: 0
+Product: 3756 SQ5330, Demand: 6058.5, Cluster: 2
+Product: 3782 SA2821, Demand: 7443.9, Cluster: 0
+Product: 3782 SA2821, Demand: 8693.9, Cluster: 0
+Product: 3796 RA1243, Demand: 8899.5, Cluster: 0
+Product: 3846 QQ5120, Demand: 9700.4, Cluster: 0
+Product: 3833 RA1243, Demand: 5922.9, Cluster: 2
+Product: 3833 RA1243, Demand: 7125.1, Cluster: 0
+Product: 3833 SA1243, Demand: 4547.2, Cluster: 2
+Product: 3833 RA2821, Demand: 8833.7, Cluster: 0
+Product: 3833 SA2821, Demand: 11768.4, Cluster: 1
+Product: 3833 SA2821, Demand: 7127.9, Cluster: 0
+Product: 3833 SA2821, Demand: 5967.1, Cluster: 2
+Product: 3833 SA5116, Demand: 5088.0, Cluster: 2
+Product: 3833 SA5146, Demand: 4778.6, Cluster: 2
+Product: 3836 SQ1622, Demand: 4415.3, Cluster: 2
+Product: 3836 SQ3348, Demand: 5843.4, Cluster: 2
+Product: 3871 RA1002, Demand: 7176.5, Cluster: 0
+Product: 3871 SA1002, Demand: 9461.0, Cluster: 0
+Product: 3871 SA1002, Demand: 6624.5, Cluster: 2
+Product: 3871 SQ1002, Demand: 8452.8, Cluster: 0
+Product: 3871 SQ1002, Demand: 12353.6, Cluster: 1
+Product: 3871 SQ1017, Demand: 5672.4, Cluster: 2
+Product: 3871 SQ4132, Demand: 5869.2, Cluster: 2
+Product: 3872 SQ1128, Demand: 9368.0, Cluster: 0
+Product: 3872 SQ3216, Demand: 13224.5, Cluster: 1
+Product: 3872 SQ3216, Demand: 7150.8, Cluster: 0
+Product: 3872 SQ3216, Demand: 11431.0, Cluster: 1
+Product: 3872 SQ5316, Demand: 8851.5, Cluster: 0
+Product: 3872 SQ5330, Demand: 8524.4, Cluster: 0
+Product: 3908 RA2821, Demand: 5298.6, Cluster: 2
+Product: 3908 SA2821, Demand: 9766.9, Cluster: 0
+Product: 3914 SA4986, Demand: 6996.3, Cluster: 0
+Product: 3914 SA4986, Demand: 6846.5, Cluster: 2
+Product: 3920 SA5455, Demand: 6393.9, Cluster: 2
+Product: 3920 SA5089, Demand: 4554.4, Cluster: 2
+Product: 3920 RA5325, Demand: 4681.0, Cluster: 2
+Product: 3920 RA5338, Demand: 7009.0, Cluster: 0
+Product: 3920 SA5345, Demand: 8843.3, Cluster: 0
+Product: 3920 SA5345, Demand: 5110.3, Cluster: 2
+Product: 3920 SA5346, Demand: 8805.6, Cluster: 0
+Product: 3920 SA5353, Demand: 7612.5, Cluster: 0
+Product: 3920 SA5356, Demand: 4621.4, Cluster: 2
+Product: 3920 SA5388, Demand: 10862.1, Cluster: 1
+Product: 3920 SA5389, Demand: 4186.0, Cluster: 2
+Product: 3920 SA5390, Demand: 5244.6, Cluster: 2
+Product: 3920 SA5432, Demand: 4051.8, Cluster: 2
+Product: 3920 SA5434, Demand: 8388.5, Cluster: 0
+Product: 3920 SA5453, Demand: 4644.2, Cluster: 2
+Product: 3920 SA5454, Demand: 5565.1, Cluster: 2
+Product: 3920 SA5490, Demand: 6265.8, Cluster: 2
+Product: 3920 SA5491, Demand: 5477.3, Cluster: 2
+Product: 3932 SA4986, Demand: 7793.4, Cluster: 0
+Product: 3937 SQ1339, Demand: 6423.7, Cluster: 2
+Results for class C:
+Product: 0595 SA4154, Demand: 2848.5, Cluster: 1
+Product: K595 SQ1017, Demand: 10.0, Cluster: 0
+Product: 0595 SQ1964, Demand: 1648.0, Cluster: 2
+Product: 0595 SL4155, Demand: 3111.0, Cluster: 1
+Product: 0595 SL4155, Demand: 651.0, Cluster: 0
+Product: 0595 SL4156, Demand: 981.8, Cluster: 2
+Product: 0595 TL4156, Demand: 1526.4, Cluster: 2
+Product: 0595 SL5509, Demand: 54.0, Cluster: 0
+Product: 0595 SD4820, Demand: 300.0, Cluster: 0
+Product: 0598 SJ5097, Demand: 38.4, Cluster: 0
+Product: 0702 SQ1002, Demand: 782.1, Cluster: 0
+Product: K702 SQ1002, Demand: 45.0, Cluster: 0
+Product: K702 SQ1002, Demand: 20.0, Cluster: 0
+Product: K702 SQ1002, Demand: 512.0, Cluster: 0
+Product: K702 SQ1004, Demand: 11.0, Cluster: 0
+Product: 0702 SQ1017, Demand: 1169.5, Cluster: 2
+Product: K702 SQ1017, Demand: 20.0, Cluster: 0
+Product: K702 TQ1017, Demand: 25.0, Cluster: 0
+Product: 0702 SQ1022, Demand: 2400.0, Cluster: 1
+Product: K702 SQ1022, Demand: 5.0, Cluster: 0
+Product: K702 SQ1022, Demand: 150.0, Cluster: 0
+Product: K702 SQ1930, Demand: 29.99, Cluster: 0
+Product: K702 SQ1930, Demand: 45.72, Cluster: 0
+Product: K702 SQ1930, Demand: 27.43, Cluster: 0
+Product: K702 TQ1930, Demand: 91.44, Cluster: 0
+Product: 0702 SQ2896, Demand: 2934.0, Cluster: 1
+Product: 0702 SQ3653, Demand: 3014.1, Cluster: 1
+Product: 0702 SQ4153, Demand: 422.0, Cluster: 0
+Product: 0702 SQ4153, Demand: 3838.0, Cluster: 1
+Product: 0702 SQ4153, Demand: 938.0, Cluster: 2
+Product: 0702 SQ4153, Demand: 2484.0, Cluster: 1
+Product: 0702 SQ4153, Demand: 31.0, Cluster: 0
+Product: 0702 TQ4153, Demand: 834.0, Cluster: 0
+Product: 0702 TQ4153, Demand: 739.0, Cluster: 0
+Product: 0702 TQ4153, Demand: 1963.0, Cluster: 2
+Product: 0702 TQ4153, Demand: 146.0, Cluster: 0
+Product: 0702 TQ4661, Demand: 800.5, Cluster: 0
+Product: 0702 TQ4661, Demand: 1659.5, Cluster: 2
+Product: 0702 TQ4661, Demand: 501.0, Cluster: 0
+Product: 0702 SQ4681, Demand: 769.0, Cluster: 0
+Product: 0702 SQ4681, Demand: 722.0, Cluster: 0
+Product: K702 SQ5367, Demand: 20.0, Cluster: 0
+Product: 0702 SQ5395, Demand: 2060.0, Cluster: 2
+Product: 0702 SQ5395, Demand: 2568.0, Cluster: 1
+Product: 0702 SQ5395, Demand: 527.0, Cluster: 0
+Product: 0702 SQ5402, Demand: 327.8, Cluster: 0
+Product: 0702 SL1004, Demand: 977.0, Cluster: 2
+Product: 0702 SL1004, Demand: 3454.0, Cluster: 1
+Product: 0702 SL1004, Demand: 1171.0, Cluster: 2
+Product: 0702 SL1004, Demand: 1803.0, Cluster: 2
+Product: 0702 SL1004, Demand: 663.0, Cluster: 0
+Product: 0702 SL1004, Demand: 878.0, Cluster: 2
+Product: 0702 SL1127, Demand: 199.8, Cluster: 0
+Product: 0702 SL1127, Demand: 817.4, Cluster: 0
+Product: 0702 SL1127, Demand: 1112.9, Cluster: 2
+Product: 0702 SL1215, Demand: 1686.6, Cluster: 2
+Product: 0702 SL1215, Demand: 1808.5, Cluster: 2
+Product: 0702 SL1215, Demand: 697.1, Cluster: 0
+Product: 0702 RL3448, Demand: 760.3, Cluster: 0
+Product: 0702 SL3448, Demand: 70.0, Cluster: 0
+Product: 0702 SL3448, Demand: 1077.6, Cluster: 2
+Product: 0702 SL4155, Demand: 842.0, Cluster: 0
+Product: 0702 SL4155, Demand: 3091.58, Cluster: 1
+Product: 0702 SL4155, Demand: 344.74, Cluster: 0
+Product: 0702 SL4155, Demand: 250.0, Cluster: 0
+Product: 0702 SL4156, Demand: 1335.0, Cluster: 2
+Product: 0702 SL4156, Demand: 558.0, Cluster: 0
+Product: 0702 SL4156, Demand: 3006.0, Cluster: 1
+Product: 0702 SL4156, Demand: 194.0, Cluster: 0
+Product: 0702 SL4156, Demand: 653.0, Cluster: 0
+Product: 0702 SL4156, Demand: 50.0, Cluster: 0
+Product: 0702 SL4156, Demand: 156.0, Cluster: 0
+Product: 0702 SL4156, Demand: 192.0, Cluster: 0
+Product: 0702 SL4623, Demand: 2484.0, Cluster: 1
+Product: 0702 SD2032, Demand: 500.0, Cluster: 0
+Product: 0702 SD2032, Demand: 1800.0, Cluster: 2
+Product: 0702 SD2032, Demand: 2600.0, Cluster: 1
+Product: 0702 SD2032, Demand: 1300.0, Cluster: 2
+Product: 0702 SD2032, Demand: 1300.0, Cluster: 2
+Product: 0702 SD2165, Demand: 1840.0, Cluster: 2
+Product: K702 SD2165, Demand: 100.0, Cluster: 0
+Product: 0702 SD2169, Demand: 1000.0, Cluster: 2
+Product: 0702 SD2180, Demand: 700.0, Cluster: 0
+Product: 0702 SD2250, Demand: 1000.0, Cluster: 2
+Product: 0702 SD2250, Demand: 3800.0, Cluster: 1
+Product: 0702 TD2250, Demand: 1000.0, Cluster: 2
+Product: 0702 SD2892, Demand: 3000.0, Cluster: 1
+Product: 0702 SD4589, Demand: 3000.0, Cluster: 1
+Product: 0702 SD4589, Demand: 3880.0, Cluster: 1
+Product: 0702 SD4589, Demand: 1900.0, Cluster: 2
+Product: 0702 SD4589, Demand: 1100.0, Cluster: 2
+Product: 0702 SD4908, Demand: 200.0, Cluster: 0
+Product: 0702 SD5102, Demand: 3000.0, Cluster: 1
+Product: 0702 SD5102, Demand: 1400.0, Cluster: 2
+Product: 0702 TD5102, Demand: 1600.0, Cluster: 2
+Product: 0702 SD5103, Demand: 1850.0, Cluster: 2
+Product: 0702 SD5103, Demand: 1000.0, Cluster: 2
+Product: 0702 SD5103, Demand: 550.0, Cluster: 0
+Product: 0702 SD5103, Demand: 1284.0, Cluster: 2
+Product: 0702 SD5103, Demand: 700.0, Cluster: 0
+Product: 0702 SD5103, Demand: 1000.0, Cluster: 2
+Product: 0702 SD5103, Demand: 750.0, Cluster: 0
+Product: 0702 SD5130, Demand: 3500.0, Cluster: 1
+Product: 0702 SD5130, Demand: 2200.0, Cluster: 2
+Product: 0702 SD5147, Demand: 3003.0, Cluster: 1
+Product: 0702 SD5155, Demand: 515.0, Cluster: 0
+Product: 0702 SD5155, Demand: 100.0, Cluster: 0
+Product: 0702 SD5155, Demand: 2800.0, Cluster: 1
+Product: 0702 SD5183, Demand: 3900.0, Cluster: 1
+Product: 0702 TD5183, Demand: 3400.0, Cluster: 1
+Product: 0702 SD5196, Demand: 3800.0, Cluster: 1
+Product: 0702 SD5196, Demand: 700.0, Cluster: 0
+Product: 0702 SD5237, Demand: 1900.0, Cluster: 2
+Product: 0702 SD5237, Demand: 1000.0, Cluster: 2
+Product: 0702 SD5237, Demand: 3100.0, Cluster: 1
+Product: 0702 SD5237, Demand: 700.0, Cluster: 0
+Product: 0702 SD5237, Demand: 1100.0, Cluster: 2
+Product: 0702 SD5237, Demand: 1600.0, Cluster: 2
+Product: 0702 SD5239, Demand: 1000.0, Cluster: 2
+Product: 0702 SD5251, Demand: 1274.0, Cluster: 2
+Product: 0702 SD5401, Demand: 90.0, Cluster: 0
+Product: 0702 SD5445, Demand: 500.0, Cluster: 0
+Product: 0702 SD5445, Demand: 1000.0, Cluster: 2
+Product: K723 SL1004, Demand: 2080.0, Cluster: 2
+Product: K723 SD4821, Demand: 520.0, Cluster: 0
+Product: K725 SG2403, Demand: 27.43, Cluster: 0
+Product: K809 SD4820, Demand: 358.0, Cluster: 0
+Product: 0814 SQ3653, Demand: 2572.0, Cluster: 1
+Product: 0814 SQ5395, Demand: 3125.8, Cluster: 1
+Product: 0814 SL1215, Demand: 40.0, Cluster: 0
+Product: 0814 SL3448, Demand: 1152.3, Cluster: 2
+Product: 0835 SL1004, Demand: 1457.0, Cluster: 2
+Product: K3463 SA1004, Demand: 18.0, Cluster: 0
+Product: 3463 SD4820, Demand: 1620.0, Cluster: 2
+Product: K3633 SA1002, Demand: 9.14, Cluster: 0
+Product: 3668 SA4154, Demand: 160.71, Cluster: 0
+Product: 4002 SV2857, Demand: 3702.13, Cluster: 1
+Product: 4082 SV1002, Demand: 753.47, Cluster: 0
+Product: 4082 TV1002, Demand: 3036.63, Cluster: 1
+Product: 4090 SV1002, Demand: 3282.5, Cluster: 1
+Product: 4090 SV1002, Demand: 2336.1, Cluster: 1
+Product: 4090 SV3451, Demand: 3981.6, Cluster: 1
+Product: 4126 TD4821, Demand: 239.57, Cluster: 0
+Product: G723 SL1004, Demand: 70.0, Cluster: 0
+Product: G723 SL1004, Demand: 286.0, Cluster: 0
+Product: G737 SV1002, Demand: 313.64, Cluster: 0
+Product: G737 SV1332, Demand: 142.65, Cluster: 0
+Product: G737 SD4820, Demand: 27.43, Cluster: 0
+Product: G737 SD4820, Demand: 2072.03, Cluster: 2
+Product: 0595 SA4154, Demand: 2848.5, Cluster: 1
+Product: K595 SQ1017, Demand: 10.0, Cluster: 0
+Product: 0595 SQ1964, Demand: 1648.0, Cluster: 2
+Product: 0595 SL4155, Demand: 3111.0, Cluster: 1
+Product: 0595 SL4155, Demand: 651.0, Cluster: 0
+Product: 0595 SL4156, Demand: 981.8, Cluster: 2
+Product: 0595 TL4156, Demand: 1526.4, Cluster: 2
+Product: 0595 SL5509, Demand: 54.0, Cluster: 0
+Product: 0595 SD4820, Demand: 300.0, Cluster: 0
+Product: 0598 SJ5097, Demand: 38.4, Cluster: 0
+Product: 0702 SQ1002, Demand: 782.1, Cluster: 0
+Product: K702 SQ1002, Demand: 45.0, Cluster: 0
+Product: K702 SQ1002, Demand: 20.0, Cluster: 0
+Product: K702 SQ1002, Demand: 512.0, Cluster: 0
+Product: K702 SQ1004, Demand: 11.0, Cluster: 0
+Product: 0702 SQ1017, Demand: 1169.5, Cluster: 2
+Product: K702 SQ1017, Demand: 20.0, Cluster: 0
+Product: K702 TQ1017, Demand: 25.0, Cluster: 0
+Product: 0702 SQ1022, Demand: 2400.0, Cluster: 1
+Product: K702 SQ1022, Demand: 5.0, Cluster: 0
+Product: K702 SQ1022, Demand: 150.0, Cluster: 0
+Product: K702 SQ1930, Demand: 29.99, Cluster: 0
+Product: K702 SQ1930, Demand: 45.72, Cluster: 0
+Product: K702 SQ1930, Demand: 27.43, Cluster: 0
+Product: K702 TQ1930, Demand: 91.44, Cluster: 0
+Product: 0702 SQ2896, Demand: 2934.0, Cluster: 1
+Product: 0702 SQ3653, Demand: 3014.1, Cluster: 1
+Product: 0702 SQ4153, Demand: 422.0, Cluster: 0
+Product: 0702 SQ4153, Demand: 3838.0, Cluster: 1
+Product: 0702 SQ4153, Demand: 938.0, Cluster: 2
+Product: 0702 SQ4153, Demand: 2484.0, Cluster: 1
+Product: 0702 SQ4153, Demand: 31.0, Cluster: 0
+Product: 0702 TQ4153, Demand: 834.0, Cluster: 0
+Product: 0702 TQ4153, Demand: 739.0, Cluster: 0
+Product: 0702 TQ4153, Demand: 1963.0, Cluster: 2
+Product: 0702 TQ4153, Demand: 146.0, Cluster: 0
+Product: 0702 TQ4661, Demand: 800.5, Cluster: 0
+Product: 0702 TQ4661, Demand: 1659.5, Cluster: 2
+Product: 0702 TQ4661, Demand: 501.0, Cluster: 0
+Product: 0702 SQ4681, Demand: 769.0, Cluster: 0
+Product: 0702 SQ4681, Demand: 722.0, Cluster: 0
+Product: K702 SQ5367, Demand: 20.0, Cluster: 0
+Product: 0702 SQ5395, Demand: 2060.0, Cluster: 2
+Product: 0702 SQ5395, Demand: 2568.0, Cluster: 1
+Product: 0702 SQ5395, Demand: 527.0, Cluster: 0
+Product: 0702 SQ5402, Demand: 327.8, Cluster: 0
+Product: 0702 SL1004, Demand: 977.0, Cluster: 2
+Product: 0702 SL1004, Demand: 3454.0, Cluster: 1
+Product: 0702 SL1004, Demand: 1171.0, Cluster: 2
+Product: 0702 SL1004, Demand: 1803.0, Cluster: 2
+Product: 0702 SL1004, Demand: 663.0, Cluster: 0
+Product: 0702 SL1004, Demand: 878.0, Cluster: 2
+Product: 0702 SL1127, Demand: 199.8, Cluster: 0
+Product: 0702 SL1127, Demand: 817.4, Cluster: 0
+Product: 0702 SL1127, Demand: 1112.9, Cluster: 2
+Product: 0702 SL1215, Demand: 1686.6, Cluster: 2
+Product: 0702 SL1215, Demand: 1808.5, Cluster: 2
+Product: 0702 SL1215, Demand: 697.1, Cluster: 0
+Product: 0702 RL3448, Demand: 760.3, Cluster: 0
+Product: 0702 SL3448, Demand: 70.0, Cluster: 0
+Product: 0702 SL3448, Demand: 1077.6, Cluster: 2
+Product: 0702 SL4155, Demand: 842.0, Cluster: 0
+Product: 0702 SL4155, Demand: 3091.58, Cluster: 1
+Product: 0702 SL4155, Demand: 344.74, Cluster: 0
+Product: 0702 SL4155, Demand: 250.0, Cluster: 0
+Product: 0702 SL4156, Demand: 1335.0, Cluster: 2
+Product: 0702 SL4156, Demand: 558.0, Cluster: 0
+Product: 0702 SL4156, Demand: 3006.0, Cluster: 1
+Product: 0702 SL4156, Demand: 194.0, Cluster: 0
+Product: 0702 SL4156, Demand: 653.0, Cluster: 0
+Product: 0702 SL4156, Demand: 50.0, Cluster: 0
+Product: 0702 SL4156, Demand: 156.0, Cluster: 0
+Product: 0702 SL4156, Demand: 192.0, Cluster: 0
+Product: 0702 SL4623, Demand: 2484.0, Cluster: 1
+Product: 0702 SD2032, Demand: 500.0, Cluster: 0
+Product: 0702 SD2032, Demand: 1800.0, Cluster: 2
+Product: 0702 SD2032, Demand: 2600.0, Cluster: 1
+Product: 0702 SD2032, Demand: 1300.0, Cluster: 2
+Product: 0702 SD2032, Demand: 1300.0, Cluster: 2
+Product: 0702 SD2165, Demand: 1840.0, Cluster: 2
+Product: K702 SD2165, Demand: 100.0, Cluster: 0
+Product: 0702 SD2169, Demand: 1000.0, Cluster: 2
+Product: 0702 SD2180, Demand: 700.0, Cluster: 0
+Product: 0702 SD2250, Demand: 1000.0, Cluster: 2
+Product: 0702 SD2250, Demand: 3800.0, Cluster: 1
+Product: 0702 TD2250, Demand: 1000.0, Cluster: 2
+Product: 0702 SD2892, Demand: 3000.0, Cluster: 1
+Product: 0702 SD4589, Demand: 3000.0, Cluster: 1
+Product: 0702 SD4589, Demand: 3880.0, Cluster: 1
+Product: 0702 SD4589, Demand: 1900.0, Cluster: 2
+Product: 0702 SD4589, Demand: 1100.0, Cluster: 2
+Product: 0702 SD4908, Demand: 200.0, Cluster: 0
+Product: 0702 SD5102, Demand: 3000.0, Cluster: 1
+Product: 0702 SD5102, Demand: 1400.0, Cluster: 2
+Product: 0702 TD5102, Demand: 1600.0, Cluster: 2
+Product: 0702 SD5103, Demand: 1850.0, Cluster: 2
+Product: 0702 SD5103, Demand: 1000.0, Cluster: 2
+Product: 0702 SD5103, Demand: 550.0, Cluster: 0
+Product: 0702 SD5103, Demand: 1284.0, Cluster: 2
+Product: 0702 SD5103, Demand: 700.0, Cluster: 0
+Product: 0702 SD5103, Demand: 1000.0, Cluster: 2
+Product: 0702 SD5103, Demand: 750.0, Cluster: 0
+Product: 0702 SD5130, Demand: 3500.0, Cluster: 1
+Product: 0702 SD5130, Demand: 2200.0, Cluster: 2
+Product: 0702 SD5147, Demand: 3003.0, Cluster: 1
+Product: 0702 SD5155, Demand: 515.0, Cluster: 0
+Product: 0702 SD5155, Demand: 100.0, Cluster: 0
+Product: 0702 SD5155, Demand: 2800.0, Cluster: 1
+Product: 0702 SD5183, Demand: 3900.0, Cluster: 1
+Product: 0702 TD5183, Demand: 3400.0, Cluster: 1
+Product: 0702 SD5196, Demand: 3800.0, Cluster: 1
+Product: 0702 SD5196, Demand: 700.0, Cluster: 0
+Product: 0702 SD5237, Demand: 1900.0, Cluster: 2
+Product: 0702 SD5237, Demand: 1000.0, Cluster: 2
+Product: 0702 SD5237, Demand: 3100.0, Cluster: 1
+Product: 0702 SD5237, Demand: 700.0, Cluster: 0
+Product: 0702 SD5237, Demand: 1100.0, Cluster: 2
+Product: 0702 SD5237, Demand: 1600.0, Cluster: 2
+Product: 0702 SD5239, Demand: 1000.0, Cluster: 2
+Product: 0702 SD5251, Demand: 1274.0, Cluster: 2
+Product: 0702 SD5401, Demand: 90.0, Cluster: 0
+Product: 0702 SD5445, Demand: 500.0, Cluster: 0
+Product: 0702 SD5445, Demand: 1000.0, Cluster: 2
+Product: K723 SL1004, Demand: 2080.0, Cluster: 2
+Product: K723 SD4821, Demand: 520.0, Cluster: 0
+Product: K725 SG2403, Demand: 27.43, Cluster: 0
+Product: K809 SD4820, Demand: 358.0, Cluster: 0
+Product: 0814 SQ3653, Demand: 2572.0, Cluster: 1
+Product: 0814 SQ5395, Demand: 3125.8, Cluster: 1
+Product: 0814 SL1215, Demand: 40.0, Cluster: 0
+Product: 0814 SL3448, Demand: 1152.3, Cluster: 2
+Product: 0835 SL1004, Demand: 1457.0, Cluster: 2
+Product: K3463 SA1004, Demand: 18.0, Cluster: 0
+Product: 3463 SD4820, Demand: 1620.0, Cluster: 2
+Product: K3633 SA1002, Demand: 9.14, Cluster: 0
+Product: 3668 SA4154, Demand: 160.71, Cluster: 0
+Product: 4002 SV2857, Demand: 3702.13, Cluster: 1
+Product: 4082 SV1002, Demand: 753.47, Cluster: 0
+Product: 4082 TV1002, Demand: 3036.63, Cluster: 1
+Product: 4090 SV1002, Demand: 3282.5, Cluster: 1
+Product: 4090 SV1002, Demand: 2336.1, Cluster: 1
+Product: 4090 SV3451, Demand: 3981.6, Cluster: 1
+Product: 4126 TD4821, Demand: 239.57, Cluster: 0
+Product: G723 SL1004, Demand: 70.0, Cluster: 0
+Product: G723 SL1004, Demand: 286.0, Cluster: 0
+Product: G737 SV1002, Demand: 313.64, Cluster: 0
+Product: G737 SV1332, Demand: 142.65, Cluster: 0
+Product: G737 SD4820, Demand: 27.43, Cluster: 0
+Product: G737 SD4820, Demand: 2072.03, Cluster: 2
+Product: 0000 SD4876, Demand: 3000.0, Cluster: 1
+Product: 0000 SD4877, Demand: 1800.0, Cluster: 2
+Product: 0000 SD4877, Demand: 32.0, Cluster: 0
+Product: 0000 SD4900, Demand: 500.0, Cluster: 0
+Product: 0000 SD4900, Demand: 3796.0, Cluster: 1
+Product: 0000 SD4900, Demand: 200.0, Cluster: 0
+Product: 0000 SD4900, Demand: 2800.0, Cluster: 1
+Product: 0000 RD4928, Demand: 1296.0, Cluster: 2
+Product: 0000 RD4928, Demand: 300.0, Cluster: 0
+Product: 0000 SD5024, Demand: 2743.2, Cluster: 1
+Product: 0000 SD5024, Demand: 2743.2, Cluster: 1
+Product: 0000 SD5024, Demand: 230.0, Cluster: 0
+Product: 0000 SD5204, Demand: 822.96, Cluster: 0
+Product: 0000 SD5398, Demand: 100.0, Cluster: 0
+Product: 0000 SD5398, Demand: 200.0, Cluster: 0
+Product: 0000 SD5399, Demand: 100.0, Cluster: 0
+Product: 0000 SD5400, Demand: 1500.0, Cluster: 2
+Product: 0000 SD5400, Demand: 600.0, Cluster: 0
+Product: 1112 RA3218, Demand: 1489.6, Cluster: 2
+Product: 1112 SA3218, Demand: 1527.5, Cluster: 2
+Product: 1112 SQ4008, Demand: 2438.0, Cluster: 1
+Product: 1117 RQ3939, Demand: 594.0, Cluster: 0
+Product: 1134 RA4408, Demand: 1768.2, Cluster: 2
+Product: 1134 RQ1004, Demand: 1786.6, Cluster: 2
+Product: 1137 QA1002, Demand: 3097.0, Cluster: 1
+Product: 1137 QA1002, Demand: 924.0, Cluster: 2
+Product: 1137 QA1002, Demand: 433.0, Cluster: 0
+Product: 1137 SA1002, Demand: 1000.3, Cluster: 2
+Product: 1137 QA1004, Demand: 315.0, Cluster: 0
+Product: 1137 QA1004, Demand: 290.2, Cluster: 0
+Product: 1137 SA1243, Demand: 1170.8, Cluster: 2
+Product: 1137 SA4009, Demand: 1209.5, Cluster: 2
+Product: 1137 SA5088, Demand: 1927.1, Cluster: 2
+Product: 1137 SA5414, Demand: 1878.4, Cluster: 2
+Product: 1137 SA5500, Demand: 1008.0, Cluster: 2
+Product: 1137 SA5500, Demand: 3138.4, Cluster: 1
+Product: 1137 SA5501, Demand: 2035.0, Cluster: 2
+Product: 1137 SA5502, Demand: 1007.1, Cluster: 2
+Product: 1137 SA5515, Demand: 3101.1, Cluster: 1
+Product: 1137 QQ1004, Demand: 711.0, Cluster: 0
+Product: 1137 SQ4898, Demand: 2488.0, Cluster: 1
+Product: 1137 SQ5311, Demand: 1240.5, Cluster: 2
+Product: 1137 QL1002, Demand: 817.6, Cluster: 0
+Product: 1137 QL1640, Demand: 104.3, Cluster: 0
+Product: 1137 QJ1002, Demand: 508.5, Cluster: 0
+Product: 1137 QJ1640, Demand: 1037.0, Cluster: 2
+Product: 1138 SA3218, Demand: 2200.0, Cluster: 2
+Product: 1177 SA1002, Demand: 840.0, Cluster: 0
+Product: 1178 RA3887, Demand: 1000.0, Cluster: 2
+Product: 1178 SA3887, Demand: 967.13, Cluster: 2
+Product: 1178 SA4222, Demand: 154.0, Cluster: 0
+Product: 1178 SQ1012, Demand: 1600.0, Cluster: 2
+Product: 1178 QQ1017, Demand: 910.0, Cluster: 2
+Product: 1178 QQ1027, Demand: 200.0, Cluster: 0
+Product: 1181 RA1029, Demand: 224.4, Cluster: 0
+Product: 1181 RA1029, Demand: 1210.3, Cluster: 2
+Product: 1181 QA1073, Demand: 280.7, Cluster: 0
+Product: 1181 QA1215, Demand: 235.5, Cluster: 0
+Product: 1181 QA1215, Demand: 295.5, Cluster: 0
+Product: 1181 RA1504, Demand: 601.9, Cluster: 0
+Product: 1181 QA5065, Demand: 135.0, Cluster: 0
+Product: 1181 RA5149, Demand: 159.5, Cluster: 0
+Product: 1181 RQ1002, Demand: 516.0, Cluster: 0
+Product: 1181 RQ1002, Demand: 208.0, Cluster: 0
+Product: 1181 RQ1004, Demand: 941.9, Cluster: 2
+Product: 1181 QQ1027, Demand: 456.5, Cluster: 0
+Product: 1181 RQ1027, Demand: 417.6, Cluster: 0
+Product: 1181 RQ1059, Demand: 714.0, Cluster: 0
+Product: 1181 RQ1059, Demand: 112.0, Cluster: 0
+Product: 1181 RQ1637, Demand: 181.0, Cluster: 0
+Product: 1181 RQ1829, Demand: 181.6, Cluster: 0
+Product: 1181 RQ1829, Demand: 433.0, Cluster: 0
+Product: 1181 RQ2696, Demand: 2871.9, Cluster: 1
+Product: 1181 SQ3317, Demand: 1698.4, Cluster: 2
+Product: 1181 RJ1029, Demand: 607.1, Cluster: 0
+Product: 1181 QJ2627, Demand: 102.8, Cluster: 0
+Product: 1181 QL1002, Demand: 102.5, Cluster: 0
+Product: 1181 QL1004, Demand: 489.0, Cluster: 0
+Product: 1181 QL1004, Demand: 593.3, Cluster: 0
+Product: 1181 RL1004, Demand: 602.5, Cluster: 0
+Product: 1181 RL1029, Demand: 376.5, Cluster: 0
+Product: 1181 QT1075, Demand: 266.5, Cluster: 0
+Product: 1181 QT1829, Demand: 200.0, Cluster: 0
+Product: 1195 SQ5449, Demand: 517.9, Cluster: 0
+Product: 1195 SL1215, Demand: 3476.0, Cluster: 1
+Product: 1195 SL1215, Demand: 1027.0, Cluster: 2
+Product: 1195 SL1215, Demand: 100.0, Cluster: 0
+Product: 1195 SL1215, Demand: 361.0, Cluster: 0
+Product: 1200 SA1215, Demand: 3482.0, Cluster: 1
+Product: 1200 SA5146, Demand: 1930.6, Cluster: 2
+Product: 1200 SA5342, Demand: 2946.0, Cluster: 1
+Product: 1200 SA5383, Demand: 3254.8, Cluster: 1
+Product: 1200 SQ1002, Demand: 1506.95, Cluster: 2
+Product: 1223 SA2821, Demand: 3453.0, Cluster: 1
+Product: 1223 SA2821, Demand: 1679.5, Cluster: 2
+Product: 1225 SQ1002, Demand: 2502.71, Cluster: 1
+Product: 1225 SQ1012, Demand: 503.84, Cluster: 0
+Product: 1225 SQ1012, Demand: 546.81, Cluster: 0
+Product: 3002 SA3218, Demand: 1655.0, Cluster: 2
+Product: 3002 GQ1463, Demand: 1151.0, Cluster: 2
+Product: 3002 GQ4232, Demand: 957.8, Cluster: 2
+Product: 3158 SA4009, Demand: 1118.7, Cluster: 2
+Product: 3158 RA5116, Demand: 2418.5, Cluster: 1
+Product: 3158 SA5116, Demand: 1134.6, Cluster: 2
+Product: 3158 SA5396, Demand: 1427.9, Cluster: 2
+Product: 3158 SA5397, Demand: 3603.5, Cluster: 1
+Product: 3158 SA5426, Demand: 2071.0, Cluster: 2
+Product: 3277 RA1002, Demand: 1661.7, Cluster: 2
+Product: 3277 SA1002, Demand: 3242.9, Cluster: 1
+Product: 3277 SA2821, Demand: 3140.7, Cluster: 1
+Product: 3728 SA3290, Demand: 3717.8, Cluster: 1
+Product: 3728 RA4017, Demand: 1039.9, Cluster: 2
+Product: 3728 MA4222, Demand: 488.3, Cluster: 0
+Product: 3728 RA4813, Demand: 1341.5, Cluster: 2
+Product: 3728 RA4813, Demand: 1339.0, Cluster: 2
+Product: 3728 SQ1339, Demand: 2701.3, Cluster: 1
+Product: 3728 PQ3348, Demand: 1026.4, Cluster: 2
+Product: 3728 RQ3677, Demand: 1389.6, Cluster: 2
+Product: 3728 SQ3677, Demand: 3145.1, Cluster: 1
+Product: 3728 SQ3677, Demand: 1106.3, Cluster: 2
+Product: 3728 PQ3966, Demand: 1117.1, Cluster: 2
+Product: 3728 PQ4230, Demand: 836.5, Cluster: 0
+Product: 3728 QQ4836, Demand: 504.0, Cluster: 0
+Product: 3728 SQ5122, Demand: 880.4, Cluster: 2
+Product: 3756 SQ3029, Demand: 2131.5, Cluster: 2
+Product: 3756 SQ3361, Demand: 1375.5, Cluster: 2
+Product: 3756 SQ4076, Demand: 2571.3, Cluster: 1
+Product: 3756 SQ4186, Demand: 3570.0, Cluster: 1
+Product: 3756 SQ5518, Demand: 1050.0, Cluster: 2
+Product: 3782 SA4986, Demand: 1050.0, Cluster: 2
+Product: 3782 SA5345, Demand: 919.4, Cluster: 2
+Product: 3782 SA5521, Demand: 1295.3, Cluster: 2
+Product: 3786 RA2821, Demand: 2323.9, Cluster: 1
+Product: 3796 RA1002, Demand: 2857.0, Cluster: 1
+Product: 3796 RA1243, Demand: 2467.0, Cluster: 1
+Product: 3796 RA4408, Demand: 3834.6, Cluster: 1
+Product: 3833 QA2821, Demand: 3740.1, Cluster: 1
+Product: 3833 SA2821, Demand: 1449.6, Cluster: 2
+Product: 3833 SA2821, Demand: 2638.4, Cluster: 1
+Product: 3833 SA2821, Demand: 2952.7, Cluster: 1
+Product: 3833 SA4009, Demand: 1903.3, Cluster: 2
+Product: 3833 SA5116, Demand: 3329.7, Cluster: 1
+Product: 3833 SA5116, Demand: 1116.4, Cluster: 2
+Product: 3833 SA5116, Demand: 1137.0, Cluster: 2
+Product: 3833 SA5116, Demand: 1143.0, Cluster: 2
+Product: 3836 SQ3331, Demand: 3322.0, Cluster: 1
+Product: 3836 SQ5497, Demand: 1462.9, Cluster: 2
+Product: 3871 QA1002, Demand: 1791.7, Cluster: 2
+Product: 3871 SA1002, Demand: 1231.4, Cluster: 2
+Product: 3871 SQ1017, Demand: 1400.7, Cluster: 2
+Product: 3871 SQ1380, Demand: 1298.8, Cluster: 2
+Product: 3872 SQ3630, Demand: 3217.4, Cluster: 1
+Product: 3872 SQ3979, Demand: 2914.8, Cluster: 1
+Product: 3872 SQ5062, Demand: 1232.3, Cluster: 2
+Product: 3872 SQ5314, Demand: 1234.3, Cluster: 2
+Product: 3872 SQ5316, Demand: 1312.5, Cluster: 2
+Product: 3920 SA4787, Demand: 3318.9, Cluster: 1
+Product: 3920 SA5091, Demand: 3532.7, Cluster: 1
+Product: 3920 SA5111, Demand: 1174.1, Cluster: 2
+Product: 3920 SA5114, Demand: 1025.7, Cluster: 2
+Product: 3920 RA5115, Demand: 1230.5, Cluster: 2
+Product: 3920 SA5324, Demand: 1096.7, Cluster: 2
+Product: 3920 SA5336, Demand: 1463.4, Cluster: 2
+Product: 3920 SA5336, Demand: 3117.9, Cluster: 1
+Product: 3920 SA5344, Demand: 1139.6, Cluster: 2
+Product: 3920 SA5345, Demand: 2266.9, Cluster: 1
+Product: 3920 SA5387, Demand: 1148.4, Cluster: 2
+Product: 3920 SA5431, Demand: 2288.4, Cluster: 1
+Product: 3920 SA5433, Demand: 1338.6, Cluster: 2
+Product: 3920 SA5454, Demand: 2283.2, Cluster: 1
+Product: 3920 SA5492, Demand: 1042.7, Cluster: 2
+Product: 3920 SA5492, Demand: 1226.9, Cluster: 2
+Product: 3920 SA5511, Demand: 1814.7, Cluster: 2
+Product: 3932 SA2821, Demand: 2589.5, Cluster: 1
+Product: 5326 TA4017, Demand: 392.0, Cluster: 0
+Product: 5326 RL5274, Demand: 164.0, Cluster: 0
+Product: 5462 ST1043, Demand: 232.5, Cluster: 0
+Product: 5462 ST1043, Demand: 374.5, Cluster: 0
+Product: 5462 SA5486, Demand: 2794.0, Cluster: 1
